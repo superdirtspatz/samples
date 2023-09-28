@@ -11,9 +11,9 @@
     "wavekick_zero": "beats/wavekick_0.mp3",
     "wobble_bmax": "basslines/wobble_b_max.mp3",
     "flo_floaty": "melodys/floaty.mp3",
-    "science_zero": "talk talk/science_0.mp3", 
-    "science_one": "talk talk/science_1.mp3", 
-    "science_two": "talk talk/science_2.mp3"
+    "science_zero": "talk_talk/science_0.mp3", 
+    "science_one": "talk_talk/science_1.mp3", 
+    "science_two": "talk_talk/science_2.mp3"
  
     
 }
