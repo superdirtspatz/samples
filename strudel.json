@@ -15,7 +15,13 @@
     "science_one": "talk_talk/science_1.mp3", 
     "science_two": "talk_talk/science_2.mp3",
     "helge_zero": "talk_talk/helge_0.mp3", 
-    "helge_one": "talk_talk/helge_1.mp3"
- 
+    "helge_one": "talk_talk/helge_1.mp3",
+    "jazz_zero": "talk_talk/jazz_0.mp3", 
+    "jazz_one": "talk_talk/jazz_1.mp3", 
+    "jazz_two": "talk_talk/jazz_2.mp3",
+    "jazz_three": "talk_talk/jazz_3.mp3",
+    "patton_zero": "talk_talk/patton_0.mp3", 
+    "patton_one": "talk_talk/patton_1.mp3", 
+    "patton_two": "talk_talk/patton_2.mp3"
     
 }
