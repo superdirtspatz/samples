@@ -13,7 +13,9 @@
     "flo_floaty": "melodys/floaty.mp3",
     "science_zero": "talk_talk/science_0.mp3", 
     "science_one": "talk_talk/science_1.mp3", 
-    "science_two": "talk_talk/science_2.mp3"
+    "science_two": "talk_talk/science_2.mp3",
+    "helge_zero": "talk_talk/helge_0.mp3", 
+    "helge_one": "talk_talk/helge_1.mp3"
  
     
 }
