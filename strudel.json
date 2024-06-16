@@ -1,6 +1,7 @@
 {
     "_base": "https://raw.githubusercontent.com/superdirtspatz/samples/main/",
     "cole_zero": "beats/cole_0.mp3",
+    "fisherman_zero": "beats/primus_fisherman_drums_chopped_0.mp3",
     "mim_one": "beats/music_is_mine_01.mp3",
     "mim_two": "beats/music_is_mine_02.mp3",
     "goji_one": "beats/gojira_01.mp3",
@@ -25,5 +26,4 @@
     "patton_two": "talk_talk/patton_2.mp3",
     "zilpzalp_zero": "talk_talk/zilpzalp_0.mp3",
     "zilpzalp": "talk_talk/zilpzalp_0.mp3",
-    "fisherman_zero": "beats/primus_fisherman_drums_chopped_0.mp3"
 }
