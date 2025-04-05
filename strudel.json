@@ -31,5 +31,6 @@
     "kuf": "beats/kuf_odyssee_0.mp3",
     "kuf_tight": "beats/kuf_odyssee_drums_cut_tight_0.mp3", 
     "brain": "beats/brain_0.mp3",
-    "brain_flams": "beats/brain_1.wav"
+    "brain_flams": "beats/brain_1.wav",
+    "break": "beats/break.mp3"
 }
