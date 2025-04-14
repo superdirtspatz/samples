@@ -32,5 +32,26 @@
     "kuf_tight": "beats/kuf_odyssee_drums_cut_tight_0.mp3", 
     "brain": "beats/brain_0.mp3",
     "brain_flams": "beats/brain_1.wav",
-    "break": "beats/break.mp3"
+    "break": "beats/break.mp3",
+    "r12_bd": "beats/po12_bd.mp3",
+    "r12_sd": "beats/po12_sd.mp3",
+    "r12_blip": "beats/po12_blip.mp3",
+    "r12_bp": "beats/po12_blip.mp3",
+    "r12_cb": "beats/po12_cb.mp3",
+    "r12_cl": "beats/po12_cl.mp3",
+    "r12_cp": "beats/po12_cp.mp3",
+    "r12_cy": "beats/po12_cy.mp3",
+    "r12_hh": "beats/po12_hh.mp3",
+    "r12_ht": "beats/po12_ht.mp3",
+    "r12_lt": "beats/po12_lt.mp3",
+    "r12_noise": "beats/po12_noise.mp3",
+    "r12_n": "beats/po12_noise.mp3",
+    "r12_oh": "beats/po12_oh.mp3",
+    "r12_ssd": "beats/po12_ssd.mp3",
+    "r12_st": "beats/po12_st.mp3",
+    "r12_tone1": "beats/po12_tone1.mp3",
+    "r12_t1": "beats/po12_tone1.mp3",
+    "r12_tone2": "beats/po12_tone2.mp3",
+    "r12_t2": "beats/po12_tone2.mp3"
+
 }
