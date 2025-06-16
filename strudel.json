@@ -54,6 +54,14 @@
     "r12_tone2": "beats/po12_tone2.mp3",
     "r12_t2": "beats/po12_tone2.mp3",
     "rams_head_1": "melodies/rams_head_1.mp3",
-    "rams_head_2": "melodies/rams_head_2.mp3"
+    "rams_head_2": "melodies/rams_head_2.mp3",
+    "zvex_bd": "beats/zvex_bd.mp3",
+    "zvex_sd": "beats/zvex_sd.mp3",
+    "zvex_lt": "beats/zvex_lt.mp3",
+    "zvex_ht": "beats/zvex_ht.mp3",
+    "zvex_hh": "beats/zvex_hh.mp3",
+    "zvex_oh": "beats/zvex_oh.mp3",
+    "zvex_cp": "beats/zvex_cp.mp3"
+    
 
 }
