@@ -68,6 +68,27 @@
     "circus": "beats/Circus Circus.mp3",
     "pants": "beats/Hot Pants - Clean.mp3",
     "kool": "beats/Kool Is Back.mp3",
-    "fuz": "beats/fuz.mp3"
+    
+    "fuz": "beats/fuz.mp3",
+
+    "ttr505_bd": "beats/Bass Drum.wav",
+    "ttr505_hh": "beats/Closed Hi-Hat.wav",
+    "ttr505_cr": "beats/Crash Cymbal.wav",
+    "ttr505_cp": "beats/Hand Clap.wav",
+    "ttr505_oh": "beats/Open Hi-hat.wav",
+    "ttr505_cy": "beats/Ride Cymbal.wav",
+    "ttr505_rim": "beats/Rim Shot.wav",
+    "ttr505_sd": "beats/Snare Drum.wav",
+    "ttr505_tb": "beats/Timbale.wav",
+    "ttr505_lt": "beats/Low Tom.wav",
+    "ttr505_mt": "beats/MId Tom.wav",
+    "ttr505_ht": "beats/Hi Tom.wav",
+
+    "ttr505_hcg": "beats/Hi Conga.wav",
+    "ttr505_lcg": "beats/Low Conga.wav",
+    "ttr505_hcb": "beats/Hi Cowbell.wav",
+    "ttr505_lcb": "beats/Low Cowbell.wav",
+    "ttr505_cb": "beats/Low Cowbell.wav"
+
 
 }
