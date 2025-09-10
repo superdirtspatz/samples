@@ -88,7 +88,9 @@
     "ttr505_lcg": "beats/Low Conga.wav",
     "ttr505_hcb": "beats/Hi Cowbell.wav",
     "ttr505_lcb": "beats/Low Cowbell.wav",
-    "ttr505_cb": "beats/Low Cowbell.wav"
+    "ttr505_cb": "beats/Low Cowbell.wav",
+
+    "ah": "talk_talk/ah.mp3"
 
 
 }
