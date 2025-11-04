@@ -291,6 +291,44 @@
     "e5": "mellotron/trombone/E5.wav",
     "c#3": "mellotron/trombone/C#3.wav",
     "e4": "mellotron/trombone/E4.wav"
-  }
+  },
+
+  "bassoon": {
+    "f5": "mellotron/bassoon/F5.wav",
+    "f4": "mellotron/bassoon/F4.wav",
+    "g2": "mellotron/bassoon/G2.wav",
+    "g3": "mellotron/bassoon/G3.wav",
+    "f3": "mellotron/bassoon/F3.wav",
+    "g4": "mellotron/bassoon/G4.wav",
+    "a2": "mellotron/bassoon/A2.wav",
+    "a3": "mellotron/bassoon/A3.wav",
+    "a4": "mellotron/bassoon/A4.wav",
+    "c3": "mellotron/bassoon/C3.wav",
+    "d#3": "mellotron/bassoon/D#3.wav",
+    "b4": "mellotron/bassoon/B4.wav",
+    "f#3": "mellotron/bassoon/F#3.wav",
+    "c5": "mellotron/bassoon/C5.wav",
+    "d#5": "mellotron/bassoon/D#5.wav",
+    "d#4": "mellotron/bassoon/D#4.wav",
+    "c4": "mellotron/bassoon/C4.wav",
+    "b2": "mellotron/bassoon/B2.wav",
+    "f#4": "mellotron/bassoon/F#4.wav",
+    "b3": "mellotron/bassoon/B3.wav",
+    "g#2": "mellotron/bassoon/G#2.wav",
+    "d4": "mellotron/bassoon/D4.wav",
+    "a#4": "mellotron/bassoon/A#4.wav",
+    "d5": "mellotron/bassoon/D5.wav",
+    "g#3": "mellotron/bassoon/G#3.wav",
+    "e3": "mellotron/bassoon/E3.wav",
+    "c#5": "mellotron/bassoon/C#5.wav",
+    "c#4": "mellotron/bassoon/C#4.wav",
+    "g#4": "mellotron/bassoon/G#4.wav",
+    "a#2": "mellotron/bassoon/A#2.wav",
+    "a#3": "mellotron/bassoon/A#3.wav",
+    "d3": "mellotron/bassoon/D3.wav",
+    "e5": "mellotron/bassoon/E5.wav",
+    "c#3": "mellotron/bassoon/C#3.wav",
+    "e4": "mellotron/bassoon/E4.wav"
+  } 
  
 }
