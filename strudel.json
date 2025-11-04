@@ -367,6 +367,45 @@
     "e5": "mellotron/choir/E5.wav",
     "c#3": "mellotron/choir/C#3.wav",
     "e4": "mellotron/choir/E4.wav"
+  },
+
+     "brass": {
+    "f5": "mellotron/mk2combinedbrass/F5.wav",
+    "f4": "mellotron/mk2combinedbrass/F4.wav",
+    "g2": "mellotron/mk2combinedbrass/G2.wav",
+    "g3": "mellotron/mk2combinedbrass/G3.wav",
+    "f3": "mellotron/mk2combinedbrass/F3.wav",
+    "g4": "mellotron/mk2combinedbrass/G4.wav",
+    "a2": "mellotron/mk2combinedbrass/A2.wav",
+    "a3": "mellotron/mk2combinedbrass/A3.wav",
+    "a4": "mellotron/mk2combinedbrass/A4.wav",
+    "c3": "mellotron/mk2combinedbrass/C3.wav",
+    "d#3": "mellotron/mk2combinedbrass/D#3.wav",
+    "b4": "mellotron/mk2combinedbrass/B4.wav",
+    "f#3": "mellotron/mk2combinedbrass/F#3.wav",
+    "c5": "mellotron/mk2combinedbrass/C5.wav",
+    "d#5": "mellotron/mk2combinedbrass/D#5.wav",
+    "d#4": "mellotron/mk2combinedbrass/D#4.wav",
+    "c4": "mellotron/mk2combinedbrass/C4.wav",
+    "b2": "mellotron/mk2combinedbrass/B2.wav",
+    "f#4": "mellotron/mk2combinedbrass/F#4.wav",
+    "b3": "mellotron/mk2combinedbrass/B3.wav",
+    "g#2": "mellotron/mk2combinedbrass/G#2.wav",
+    "d4": "mellotron/mk2combinedbrass/D4.wav",
+    "a#4": "mellotron/mk2combinedbrass/A#4.wav",
+    "d5": "mellotron/mk2combinedbrass/D5.wav",
+    "g#3": "mellotron/mk2combinedbrass/G#3.wav",
+    "e3": "mellotron/mk2combinedbrass/E3.wav",
+    "c#5": "mellotron/mk2combinedbrass/C#5.wav",
+    "c#4": "mellotron/mk2combinedbrass/C#4.wav",
+    "g#4": "mellotron/mk2combinedbrass/G#4.wav",
+    "a#2": "mellotron/mk2combinedbrass/A#2.wav",
+    "a#3": "mellotron/mk2combinedbrass/A#3.wav",
+    "d3": "mellotron/mk2combinedbrass/D3.wav",
+    "e5": "mellotron/mk2combinedbrass/E5.wav",
+    "c#3": "mellotron/mk2combinedbrass/C#3.wav",
+    "e4": "mellotron/mk2combinedbrass/E4.wav"
   }
- 
+
+
 }
