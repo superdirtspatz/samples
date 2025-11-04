@@ -101,6 +101,46 @@
     "wild_one": "beats/wild2.mp3",
     "wild_two": "beats/wild.mp3",
     "wild2": "beats/wild.mp3",
-    "badman": "beats/badman.wav"
+    "badman": "beats/badman.wav",
+
+     "8Choir": {
+    "f5": "/samples/8choir/F5.wav",
+    "f4": "/samples/8choir/F4.wav",
+    "g2": "/samples/8choir/G2.wav",
+    "g3": "/samples/8choir/G3.wav",
+    "f3": "/samples/8choir/F3.wav",
+    "g4": "/samples/8choir/G4.wav",
+    "a2": "/samples/8choir/A2.wav",
+    "a3": "/samples/8choir/A3.wav",
+    "a4": "/samples/8Choir/A4.wav",
+    "c3": "/samples/8choir/C3.wav",
+    "d#3": "/samples/8choir/D#3.wav",
+    "b4": "/samples/8choir/B4.wav",
+    "f#3": "/samples/8choir/F#3.wav",
+    "c5": "/samples/8choir/C5.wav",
+    "d#5": "/samples/8choir/D#5.wav",
+    "d#4": "/samples/8choir/D#4.wav",
+    "c4": "/samples/8choir/C4.wav",
+    "b2": "/samples/8choir/B2.wav",
+    "f#4": "/samples/8choir/F#4.wav",
+    "b3": "/samples/8choir/B3.wav",
+    "g#2": "/samples/8choir/G#2.wav",
+    "d4": "/samples/8choir/D4.wav",
+    "a#4": "/samples/8choir/A#4.wav",
+    "d5": "/samples/8choir/D5.wav",
+    "g#3": "/samples/8choir/G#3.wav",
+    "e3": "/samples/8choir/E3.wav",
+    "c#5": "/samples/8choir/C#5.wav",
+    "c#4": "/samples/8choir/C#4.wav",
+    "g#4": "/samples/8choir/G#4.wav",
+    "a#2": "/samples/8choir/A#2.wav",
+    "a#3": "/samples/8choir/A#3.wav",
+    "d3": "/samples/8choir/D3.wav",
+    "e5": "/samples/8choir/E5.wav",
+    "c#3": "/samples/8choir/C#3.wav",
+    "e4": "/samples/8choir/E4.wav"
+  },
+
+
 
 }
