@@ -5,17 +5,28 @@
     "fisherman": "beats/fisherman_0.mp3",
     "mim_one": "beats/music_is_mine_01.mp3",
     "mim_two": "beats/music_is_mine_02.mp3",
+    
+    "mim": ["beats/music_is_mine_01.mp3", "beats/music_is_mine_02.mp3"],
+
     "goji_one": "beats/gojira_01.mp3",
+    
     "waves_zero": "beats/waves_0.mp3", 
     "waves_one": "beats/waves_1.mp3",
     "waves_two": "beats/waves_2.mp3",
     "waves_four": "beats/waves_4.mp3",
+    
     "wavekick_zero": "beats/wavekick_0.mp3",
     "science_zero": "talk_talk/science_0.mp3", 
     "science_one": "talk_talk/science_1.mp3", 
     "science_two": "talk_talk/science_2.mp3",
+
+    "science": ["talk_talk/science_0.mp3", "talk_talk/science_1.mp3", "talk_talk/science_2.mp3"],
+    
     "helge_zero": "talk_talk/helge_0.mp3", 
     "helge_one": "talk_talk/helge_1.mp3",
+
+    "helge": [ "talk_talk/helge_0.mp3", "talk_talk/helge_1.mp3"],
+    
     "jazz_zero": "talk_talk/jazz_0.mp3", 
     "jazz_one": "talk_talk/jazz_1.mp3", 
     "jazz_two": "talk_talk/jazz_2.mp3",
