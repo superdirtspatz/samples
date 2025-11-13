@@ -99,7 +99,7 @@
     "rytm_ht": ["beats/rytm/mt1.wav", "beats/rytm/mt2.wav"],
     "rytm_oh": ["beats/rytm/oh1.wav", "beats/rytm/oh2.wav"],
     "rytm_rim": ["beats/rytm/rs1.wav", "beats/rytm/rs3.wav"],
-    "rytm_sd": ["beats/rytm/sd3.wav", "beats/rytm/sd4.wav"],
+    "rytm_sd": ["beats/rytm/sn3.wav", "beats/rytm/sn4.wav"],
 
     "ah": "talk_talk/ah.mp3",
     "future": "talk_talk/david_lynch_future.mp3",
