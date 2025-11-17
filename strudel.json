@@ -111,6 +111,16 @@
     "rytm_rim": ["beats/rytm/rs1.wav", "beats/rytm/rs3.wav"],
     "rytm_sd": ["beats/rytm/sn3.wav", "beats/rytm/sn4.wav"],
 
+    "lxr_bd": ["beats/lxr/Kick12.wav", "beats/lxr/Kick08.wav"],
+    "lxr_sd": ["beats/lxr/Snare09.wav", "beats/lxr/Snare19.wav"],
+    "lxr_perc": ["beats/lxr/Percussion23.wav", "beats/lxr/Percussion32.wav"],
+    "lxr_hh": ["beats/lxr/HH03.wav", "beats/lxr/HH10.wav"],
+    "lxr_cr": ["beats/lxr/crash1.wav", "beats/lxr/crash3.wav"],
+    "lxr_cp": ["beats/lxr/clap3.wav", "beats/lxr/clap1.wav"],
+    "lxr_oh": ["beats/lxr/HH02.wav", "beats/lxr/HH35.wav"],
+    "lxr_rim": ["beats/lxr/Snare08.wav", "beats/lxr/Snare02.wav"],
+
+
     "ah": "talk_talk/ah.mp3",
     "future": "talk_talk/david_lynch_future.mp3",
 
