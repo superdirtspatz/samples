@@ -113,7 +113,7 @@
 
     "lxr_bd": ["beats/lxr/Kick12.wav", "beats/lxr/Kick08.wav"],
     "lxr_sd": ["beats/lxr/Snare09.wav", "beats/lxr/Snare19.wav"],
-    "lxr_perc": ["beats/lxr/Percussion23.wav", "beats/lxr/Percussion32.wav"],
+    "lxr_perc": ["beats/lxr/Percussion18.wav", "beats/lxr/Percussion32.wav"],
     "lxr_hh": ["beats/lxr/HH03.wav", "beats/lxr/HH10.wav"],
     "lxr_cr": ["beats/lxr/crash1.wav", "beats/lxr/crash3.wav"],
     "lxr_cp": ["beats/lxr/clap3.wav", "beats/lxr/clap1.wav"],
