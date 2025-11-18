@@ -121,8 +121,8 @@
     "lxr_rim": ["beats/lxr/Snare08.wav", "beats/lxr/Snare02.wav"],
 
     "ff_cp": ["beats/amherst/Clap1.wav", "beats/amherst/Clap2.wav", "beats/amherst/Clap3.wav"],
-    "ff_hh": ["beats/amherst/closedhihat1.wav", "beats/amherst/closedhihat3.wav"],
-    "ff_oh": ["beats/amherst/openhihat1.wav"],
+    "ff_hh": ["beats/amherst/closedhihat1.mp3", "beats/amherst/closedhihat3.mp3"],
+    "ff_oh": ["beats/amherst/openhihat1.mp3"],
     "ff_sd": ["beats/amherst/Snare1.wav", "beats/amherst/Snare5.wav", "beats/amherst/Snare7.wav"],
     "ff_bd": ["beats/amherst/Kick6.wav", "beats/amherst/Kick8.wav", "beats/amherst/Kick9.wav"],
 
