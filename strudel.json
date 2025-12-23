@@ -674,74 +674,50 @@
 
       "rhodes": {
 
-    "f1": ["rhodes/stereo/As_029__F1_51-stereo.flac","rhodes/stereo/As_029__F1_279-stereo.flac",
-"rhodes/stereo/As_029__F1_361-stereo.flac", "rhodes/stereo/As_029__F1_431-stereo.flac", "rhodes/stereo/As_029__F1_1109-stereo.flac"
- ],
+    "f1": ["rhodes/stereo/As_029__F1_51-stereo.flac", "rhodes/stereo/As_029__F1_279-stereo.flac",
+"rhodes/stereo/As_029__F1_361-stereo.flac", "rhodes/stereo/As_029__F1_431-stereo.flac", "rhodes/stereo/As_029__F1_1109-stereo.flac"],
 
     "b1": ["rhodes/stereo/As_035__B1_53-stereo.flac", "rhodes/stereo/As_035__B1_281-stereo.flac",
-"rhodes/stereo/As_035__B1_363-stereo.flac", "rhodes/stereo/As_035__B1_433-stereo.flac", "rhodes/stereo/As_035__B1_1111-stereo.flac"
- ],
-
+"rhodes/stereo/As_035__B1_363-stereo.flac", "rhodes/stereo/As_035__B1_433-stereo.flac", "rhodes/stereo/As_035__B1_1111-stereo.flac"],
 
     "e2": ["rhodes/stereo/As_040__E2_55-stereo.flac", "rhodes/stereo/As_040__E2_283-stereo.flac",
-"rhodes/stereo/As_040__E2_365-stereo.flac", "rhodes/stereo/As_040__E2_435-stereo.flac", "rhodes/stereo/As_040__E2_1113-stereo.flac"
- ],
+"rhodes/stereo/As_040__E2_365-stereo.flac", "rhodes/stereo/As_040__E2_435-stereo.flac", "rhodes/stereo/As_040__E2_1113-stereo.flac"],
 
     "a2": ["rhodes/stereo/As_045__A2_57-stereo.flac", "rhodes/stereo/As_045__A2_285-stereo.flac",
-"rhodes/stereo/As_045__A2_367-stereo.flac", "rhodes/stereo/As_045__A2_437-stereo.flac", "rhodes/stereo/As_045__A2_1115-stereo.flac"
- ],
-
+"rhodes/stereo/As_045__A2_367-stereo.flac", "rhodes/stereo/As_045__A2_437-stereo.flac", "rhodes/stereo/As_045__A2_1115-stereo.flac"],
 
     "d3": ["rhodes/stereo/As_050__D3_59-stereo.flac", "rhodes/stereo/As_050__D3_287-stereo.flac",
-"rhodes/stereo/As_050__D3_369-stereo.flac", "rhodes/stereo/As_050__D3_439-stereo.flac", "rhodes/stereo/As_050__D3_1117-stereo.flac"
- ],
+"rhodes/stereo/As_050__D3_369-stereo.flac", "rhodes/stereo/As_050__D3_439-stereo.flac", "rhodes/stereo/As_050__D3_1117-stereo.flac"],
 
-    "g3": ["rhodes/stereo/As_055__G3_289-stereo.flac","rhodes/stereo/As_055__G3_371-stereo.flac",
-"rhodes/stereo/As_055__G3_441-stereo.flac", "rhodes/stereo/As_055__G3_511-stereo.flac", "rhodes/stereo/As_055__G3_1119-stereo.flac"
- ],
+    "g3": ["rhodes/stereo/As_055__G3_289-stereo.flac", "rhodes/stereo/As_055__G3_371-stereo.flac",
+"rhodes/stereo/As_055__G3_441-stereo.flac", "rhodes/stereo/As_055__G3_511-stereo.flac", "rhodes/stereo/As_055__G3_1119-stereo.flac"],
 
-    "b3": ["rhodes/stereo/As_059__B3_291-stereo.flac","rhodes/stereo/As_059__B3_373-stereo.flac",
-"rhodes/stereo/As_059__B3_443-stereo.flac", "rhodes/stereo/As_059__B3_513-stereo.flac", "rhodes/stereo/As_059__B3_1121-stereo.flac"
- ],
+    "b3": ["rhodes/stereo/As_059__B3_291-stereo.flac", "rhodes/stereo/As_059__B3_373-stereo.flac",
+"rhodes/stereo/As_059__B3_443-stereo.flac", "rhodes/stereo/As_059__B3_513-stereo.flac", "rhodes/stereo/As_059__B3_1121-stereo.flac"],
 
-    "d4": ["rhodes/stereo/As_062__D4_293-stereo.flac","rhodes/stereo/As_062__D4_375-stereo.flac",
-"rhodes/stereo/As_062__D4_445-stereo.flac", "rhodes/stereo/As_062__D4_513-stereo.flac", "rhodes/stereo/As_062__D4_1123-stereo.flac"
- ],
+    "d4": ["rhodes/stereo/As_062__D4_293-stereo.flac", "rhodes/stereo/As_062__D4_375-stereo.flac",
+"rhodes/stereo/As_062__D4_445-stereo.flac", "rhodes/stereo/As_062__D4_513-stereo.flac", "rhodes/stereo/As_062__D4_1123-stereo.flac"],
 
-    "f4": ["rhodes/stereo/As_065__F4_295-stereo.flac","rhodes/stereo/As_065__F4_377-stereo.flac",
-"rhodes/stereo/As_065__F4_447-stereo.flac", "rhodes/stereo/As_065__F4_517-stereo.flac", "rhodes/stereo/As_065__F4_1125-stereo.flac"
- ],
+    "f4": ["rhodes/stereo/As_065__F4_295-stereo.flac", "rhodes/stereo/As_065__F4_377-stereo.flac",
+"rhodes/stereo/As_065__F4_447-stereo.flac", "rhodes/stereo/As_065__F4_517-stereo.flac", "rhodes/stereo/As_065__F4_1125-stereo.flac"],
 
  "b4": ["rhodes/stereo/As_071__B4_297-stereo.flac","rhodes/stereo/As_071__B4_449-stereo.flac",
-"rhodes/stereo/As_071__B4_519-stereo.flac", "rhodes/stereo/As_071__B4_1127-stereo.flac"
- ],
+"rhodes/stereo/As_071__B4_519-stereo.flac", "rhodes/stereo/As_071__B4_1127-stereo.flac"],
 
+ "e5": ["rhodes/stereo/As_076__E5_299-stereo.flac", "rhodes/stereo/As_076__E5_451-stereo.flac",
+"rhodes/stereo/As_076__E5_521-stereo.flac", "rhodes/stereo/As_076__E5_1129-stereo.flac"],
 
- "e5": ["rhodes/stereo/As_076__E5_299-stereo.flac","rhodes/stereo/As_076__E5_451-stereo.flac",
-"rhodes/stereo/As_076__E5_521-stereo.flac", "rhodes/stereo/As_076__E5_1129-stereo.flac"
- ],
-
-
- "a5": ["rhodes/stereo/As_081__A5_453-stereo.flac","rhodes/stereo/As_081__A5_523-stereo.flac",
+ "a5": ["rhodes/stereo/As_081__A5_453-stereo.flac", "rhodes/stereo/As_081__A5_523-stereo.flac",
 "rhodes/stereo/As_081__A5_2101-stereo.flac"
  ],
 
+ "d6": ["rhodes/stereo/As_086__D6_455-stereo.flac", "rhodes/stereo/As_086__D6_525-stereo.flac",
+"rhodes/stereo/As_086__D6_2103-stereo.flac"],
 
- "d6": ["rhodes/stereo/As_086__D6_455-stereo.flac","rhodes/stereo/As_086__D6_525-stereo.flac",
-"rhodes/stereo/As_086__D6_2103-stereo.flac"
- ],
+ "g6": ["rhodes/stereo/As_091__G6_457-stereo.flac", "rhodes/stereo/As_091__G6_527-stereo.flac",
+"As_091__G6_2105-stereo.flac"],
 
-
- "g6": ["rhodes/stereo/As_091__G6_457-stereo.flac","rhodes/stereo/As_091__G6_527-stereo.flac",
-"As_091__G6_2105-stereo.flac"
- ],
-
-
- "c7": ["rhodes/stereo/As_096__C7_459-stereo.flac","rhodes/stereo/As_096__C7_529-stereo.flac",
-"As_096__C7_2107-stereo.flac"
- ]
-
-
-  },
+ "c7": ["rhodes/stereo/As_096__C7_459-stereo.flac", "rhodes/stereo/As_096__C7_529-stereo.flac",
+"As_096__C7_2107-stereo.flac"]
 
 }
