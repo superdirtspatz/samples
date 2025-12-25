@@ -127,7 +127,7 @@
     "ff_bd": ["beats/amherst/Kick6.wav", "beats/amherst/Kick8.wav", "beats/amherst/Kick9.wav"],
 
     "tempest_bd": ["beats/tempest/bd-01.wav", "beats/tempest/bd-55.wav"],
-    "tempest_cb": ["beats/tempest/cb-09.wav", "beats/tempest/cb-08.wav"],
+    "tempest_cb": ["beats/tempest/cb-9.wav", "beats/tempest/cb-8.wav"],
     "tempest_cp": ["beats/tempest/cp-08.wav", "beats/tempest/cp-05.wav", "beats/tempest/cp-06.wav"],
     "tempest_cr": ["beats/tempest/crash-6.wav", "beats/tempest/crash-7.wav"],
     "tempest_sn": ["beats/tempest/finger-4.wav", "beats/tempest/finger-1.wav"],
