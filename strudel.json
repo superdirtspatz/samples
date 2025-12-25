@@ -703,6 +703,25 @@
  "g6": ["rhodes/stereo/As_091__G6_457-stereo.flac", "rhodes/stereo/As_091__G6_527-stereo.flac", "As_091__G6_2105-stereo.flac"],
 
  "c7": ["rhodes/stereo/As_096__C7_459-stereo.flac", "rhodes/stereo/As_096__C7_529-stereo.flac", "As_096__C7_2107-stereo.flac"]
-       }
+       },
 
+    
+    "tempest_bd": ["beats/tempest/bd-01.wav", "beats/tempest/bd-55.wav"],
+    "tempest_cb": ["beats/tempest/cb-09.wav", "beats/tempest/cb-08.wav"],
+    "tempest_cp": ["beats/tempest/cp-08.wav", "beats/tempest/cp-05.wav" , "beats/tempest/cp-06.wav"],
+    "tempest_cr": ["beats/tempest/crash-6.wav", "beats/tempest/crash-7.wav"],
+    "tempest_sn": ["beats/tempest/finger-4.wav", "beats/tempest/finger-1.wav"],
+    "tempest_snap": ["beats/tempest/finger-4.wav", "beats/tempest/finger-1.wav"],
+    "tempest_rim": ["beats/tempest/sn-01.wav", "beats/tempest/sn-51.wav", "beats/tempest/sn-02.wav"],
+    "tempest_ht": ["beats/tempest/tom-14.wav"],
+    "tempest_mt": ["beats/tempest/tom-12.wav"],
+    "tempest_lt": ["beats/tempest/tom-13.wav"],
+    "tempest_sd": ["beats/tempest/sn-10.wav", "beats/tempest/sn-08.wav", "beats/tempest/sn-09.wav"],
+    "tempest_sh": ["beats/tempest/shaker-4.wav", "beats/tempest/shaker-5.wav"],
+    "tempest_shaker": ["beats/tempest/shaker-4.wav", "beats/tempest/shaker-5.wav"],
+    "tempest_st": ["beats/tempest/stick-3.wav", "beats/tempest/stick-4.wav", "beats/tempest/stick-5.wav"],
+    "tempest_stick": ["beats/tempest/stick-3.wav", "beats/tempest/stick-4.wav", "beats/tempest/stick-5.wav"],
+    "tempest_hh": ["beats/tempest/hh-43.wav", "beats/tempest/hh-35.wav",  "beats/tempest/hh-51.wav", "beats/tempest/hh-38.wav"],
+    "tempest_oh": ["beats/tempest/hh-03.wav", "beats/tempest/hh-16.wav"],
+    "tempest_perc": ["beats/tempest/perc-13.wav", "beats/tempest/perc-12.wav", "beats/tempest/perc-45.wav", "beats/tempest/perc-66.wav", "beats/tempest/perc-47.wav", "beats/tempest/perc-46.wav", "beats/tempest/perc-34.wav", "beats/tempest/perc-91.wav"],
 } 
