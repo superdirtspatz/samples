@@ -192,6 +192,7 @@
 "d_oh": ["beats/dirt/HHOD0.wav","beats/dirt/HHOD2.wav","beats/dirt/HHOD4.wav","beats/dirt/HHOD6.wav"],
 "d_cb": ["beats/dirt/rytm-cb.wav"],
 
+
 "ahh": ["vowels/female_ahh_01.wav","vowels/female_ahh_02.wav"],
 "ehh": ["vowels/female_ehh_01.wav","vowels/female_ehh_02.wav"],
 "ihh": ["vowels/female_ihh_02.wav","vowels/female_ihh_01.wav"],
@@ -206,6 +207,25 @@
     
     "ah": "talk_talk/ah.mp3",
     "future": "talk_talk/david_lynch_future.mp3",
+
+"awdrum_mid": ["African_Wooden_Drum_01_Mid_01.wav", "African_Wooden_Drum_02_Mid_02.wav",
+"African_Wooden_Drum_06_Mid_03.wav", "African_Wooden_Drum_07_Mid_04.wav", "African_Wooden_Drum_08_Mid_05.wav"],
+"awdrum_low": ["African_Wooden_Drum_03_Low_01.wav", "African_Wooden_Drum_04_Low_02.wav"],
+"awdrum_hit": ["African_Wooden_Drum_05_Hit_01.wav"],
+"awdrum_high": ["African_Wooden_Drum_08_High_02.wav"],
+
+"log_mid": ["African_Wooden_Drum_01_Mid_01.wav", "African_Wooden_Drum_02_Mid_02.wav",
+"African_Wooden_Drum_06_Mid_03.wav", "African_Wooden_Drum_07_Mid_04.wav", "African_Wooden_Drum_08_Mid_05.wav"],
+"log_low": ["African_Wooden_Drum_03_Low_01.wav", "African_Wooden_Drum_04_Low_02.wav"],
+"log_hit": ["African_Wooden_Drum_05_Hit_01.wav"],
+"log_high": ["African_Wooden_Drum_08_High_02.wav"],
+
+"log": ["African_Wooden_Drum_01_Mid_01.wav", "African_Wooden_Drum_02_Mid_02.wav",
+"African_Wooden_Drum_06_Mid_03.wav", "African_Wooden_Drum_07_Mid_04.wav", "African_Wooden_Drum_08_Mid_05.wav",
+"African_Wooden_Drum_03_Low_01.wav", "African_Wooden_Drum_04_Low_02.wav",
+"African_Wooden_Drum_05_Hit_01.wav",
+"African_Wooden_Drum_08_High_02.wav"],
+
 
     "between": "beats/between.mp3",
     "nennt": "beats/nennt.mp3",
