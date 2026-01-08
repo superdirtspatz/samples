@@ -205,6 +205,260 @@
     "wild2": "beats/wild.mp3",
     "badman": "beats/badman.wav",
 
+     "dk": {
+
+    "a0": "disklavier/Disklavier_High_Vel__001.wav",
+    "a#0": "disklavier/Disklavier_High_Vel__002.wav",
+    "b0": "disklavier/Disklavier_High_Vel__003.wav",
+
+
+
+   "c1": "disklavier/Disklavier_High_Vel__004.wav",
+    "c#1": "disklavier/Disklavier_High_Vel__005.wav",
+    "d1": "disklavier/Disklavier_High_Vel__006.wav",
+    "d#1": "disklavier/Disklavier_High_Vel__007.wav",
+    "e1": "disklavier/Disklavier_High_Vel__008.wav",
+    "f1": "disklavier/Disklavier_High_Vel__009.wav",
+
+    "f#1": "disklavier/Disklavier_High_Vel__010.wav",
+    "g1": "disklavier/Disklavier_High_Vel__011.wav",
+    "g#1": "disklavier/Disklavier_High_Vel__012.wav",
+    "a1": "disklavier/Disklavier_High_Vel__013.wav",
+    "a#1": "disklavier/Disklavier_High_Vel__014.wav",
+    "b1": "disklavier/Disklavier_High_Vel__015.wav",
+
+
+
+  "c2": "disklavier/Disklavier_High_Vel__016.wav",
+    "c#2": "disklavier/Disklavier_High_Vel__017.wav",
+    "d2": "disklavier/Disklavier_High_Vel__018.wav",
+    "d#2": "disklavier/Disklavier_High_Vel__019.wav",
+    "e2": "disklavier/Disklavier_High_Vel__020.wav",
+    "f2": "disklavier/Disklavier_High_Vel__021.wav",
+
+    "f#2": "disklavier/Disklavier_High_Vel__022.wav",
+    "g2": "disklavier/Disklavier_High_Vel__023.wav",
+    "g#2": "disklavier/Disklavier_High_Vel__024.wav",
+    "a2": "disklavier/Disklavier_High_Vel__025.wav",
+    "a#2": "disklavier/Disklavier_High_Vel__026.wav",
+    "b2": "disklavier/Disklavier_High_Vel__027.wav",
+
+
+
+    "c3": "disklavier/Disklavier_High_Vel__028.wav",
+    "c#3": "disklavier/Disklavier_High_Vel__029.wav",
+    "d3": "disklavier/Disklavier_High_Vel__030.wav",
+    "d#3": "disklavier/Disklavier_High_Vel__031.wav",
+    "e3": "disklavier/Disklavier_High_Vel__032.wav",
+    "f3": "disklavier/Disklavier_High_Vel__033.wav",
+
+    "f#3": "disklavier/Disklavier_High_Vel__034.wav",
+    "g3": "disklavier/Disklavier_High_Vel__035.wav",
+    "g#3": "disklavier/Disklavier_High_Vel__036.wav",
+    "a3": "disklavier/Disklavier_High_Vel__037.wav",
+    "a#3": "disklavier/Disklavier_High_Vel__038.wav",
+    "b3": "disklavier/Disklavier_High_Vel__039.wav",
+
+
+
+    "c4": "disklavier/Disklavier_High_Vel__040.wav",
+    "c#4": "disklavier/Disklavier_High_Vel__041.wav",
+    "d4": "disklavier/Disklavier_High_Vel__042.wav",
+    "d#4": "disklavier/Disklavier_High_Vel__043.wav",
+    "e4": "disklavier/Disklavier_High_Vel__044.wav",
+    "f4": "disklavier/Disklavier_High_Vel__045.wav",
+
+    "f#4": "disklavier/Disklavier_High_Vel__046.wav",
+    "g4": "disklavier/Disklavier_High_Vel__047.wav",
+    "g#4": "disklavier/Disklavier_High_Vel__048.wav",
+    "a4": "disklavier/Disklavier_High_Vel__049.wav",
+    "a#4": "disklavier/Disklavier_High_Vel__050.wav",
+    "b4": "disklavier/Disklavier_High_Vel__051.wav",
+
+
+
+
+    "c5": "disklavier/Disklavier_High_Vel__052.wav",
+    "c#5": "disklavier/Disklavier_High_Vel__053.wav",
+    "d5": "disklavier/Disklavier_High_Vel__054.wav",
+    "d#5": "disklavier/Disklavier_High_Vel__055.wav",
+    "e5": "disklavier/Disklavier_High_Vel__056.wav",
+    "f5": "disklavier/Disklavier_High_Vel__057.wav",
+
+    "f#5": "disklavier/Disklavier_High_Vel__058.wav",
+    "g5": "disklavier/Disklavier_High_Vel__059.wav",
+    "g#5": "disklavier/Disklavier_High_Vel__060.wav",
+    "a5": "disklavier/Disklavier_High_Vel__061.wav",
+    "a#5": "disklavier/Disklavier_High_Vel__062.wav",
+    "b5": "disklavier/Disklavier_High_Vel__063.wav",
+
+
+
+    "c6": "disklavier/Disklavier_High_Vel__064.wav",
+    "c#6": "disklavier/Disklavier_High_Vel__065.wav",
+    "d6": "disklavier/Disklavier_High_Vel__066.wav",
+    "d#6": "disklavier/Disklavier_High_Vel__067.wav",
+    "e6": "disklavier/Disklavier_High_Vel__068.wav",
+    "f6": "disklavier/Disklavier_High_Vel__069.wav",
+
+    "f#6": "disklavier/Disklavier_High_Vel__070.wav",
+    "g6": "disklavier/Disklavier_High_Vel__071.wav",
+    "g#6": "disklavier/Disklavier_High_Vel__072.wav",
+    "a6": "disklavier/Disklavier_High_Vel__073.wav",
+    "a#6": "disklavier/Disklavier_High_Vel__074.wav",
+    "b6": "disklavier/Disklavier_High_Vel__075.wav",
+
+
+
+    "c7": "disklavier/Disklavier_High_Vel__076.wav",
+    "c#7": "disklavier/Disklavier_High_Vel__077.wav",
+    "d7": "disklavier/Disklavier_High_Vel__078.wav",
+    "d#7": "disklavier/Disklavier_High_Vel__079.wav",
+    "e7": "disklavier/Disklavier_High_Vel__080.wav",
+    "f7": "disklavier/Disklavier_High_Vel__081.wav",
+
+    "f#7": "disklavier/Disklavier_High_Vel__082.wav",
+    "g7": "disklavier/Disklavier_High_Vel__083.wav",
+    "g#7": "disklavier/Disklavier_High_Vel__084.wav",
+    "a7": "disklavier/Disklavier_High_Vel__085.wav",
+    "a#7": "disklavier/Disklavier_High_Vel__086.wav",
+    "b7": "disklavier/Disklavier_High_Vel__087.wav",
+
+
+
+    "c8": "disklavier/Disklavier_High_Vel__088.wav",
+
+  },
+
+     "disklavier": {
+
+    "a0": "disklavier/Disklavier_High_Vel__001.wav",
+    "a#0": "disklavier/Disklavier_High_Vel__002.wav",
+    "b0": "disklavier/Disklavier_High_Vel__003.wav",
+
+
+
+   "c1": "disklavier/Disklavier_High_Vel__004.wav",
+    "c#1": "disklavier/Disklavier_High_Vel__005.wav",
+    "d1": "disklavier/Disklavier_High_Vel__006.wav",
+    "d#1": "disklavier/Disklavier_High_Vel__007.wav",
+    "e1": "disklavier/Disklavier_High_Vel__008.wav",
+    "f1": "disklavier/Disklavier_High_Vel__009.wav",
+
+    "f#1": "disklavier/Disklavier_High_Vel__010.wav",
+    "g1": "disklavier/Disklavier_High_Vel__011.wav",
+    "g#1": "disklavier/Disklavier_High_Vel__012.wav",
+    "a1": "disklavier/Disklavier_High_Vel__013.wav",
+    "a#1": "disklavier/Disklavier_High_Vel__014.wav",
+    "b1": "disklavier/Disklavier_High_Vel__015.wav",
+
+
+
+  "c2": "disklavier/Disklavier_High_Vel__016.wav",
+    "c#2": "disklavier/Disklavier_High_Vel__017.wav",
+    "d2": "disklavier/Disklavier_High_Vel__018.wav",
+    "d#2": "disklavier/Disklavier_High_Vel__019.wav",
+    "e2": "disklavier/Disklavier_High_Vel__020.wav",
+    "f2": "disklavier/Disklavier_High_Vel__021.wav",
+
+    "f#2": "disklavier/Disklavier_High_Vel__022.wav",
+    "g2": "disklavier/Disklavier_High_Vel__023.wav",
+    "g#2": "disklavier/Disklavier_High_Vel__024.wav",
+    "a2": "disklavier/Disklavier_High_Vel__025.wav",
+    "a#2": "disklavier/Disklavier_High_Vel__026.wav",
+    "b2": "disklavier/Disklavier_High_Vel__027.wav",
+
+
+
+    "c3": "disklavier/Disklavier_High_Vel__028.wav",
+    "c#3": "disklavier/Disklavier_High_Vel__029.wav",
+    "d3": "disklavier/Disklavier_High_Vel__030.wav",
+    "d#3": "disklavier/Disklavier_High_Vel__031.wav",
+    "e3": "disklavier/Disklavier_High_Vel__032.wav",
+    "f3": "disklavier/Disklavier_High_Vel__033.wav",
+
+    "f#3": "disklavier/Disklavier_High_Vel__034.wav",
+    "g3": "disklavier/Disklavier_High_Vel__035.wav",
+    "g#3": "disklavier/Disklavier_High_Vel__036.wav",
+    "a3": "disklavier/Disklavier_High_Vel__037.wav",
+    "a#3": "disklavier/Disklavier_High_Vel__038.wav",
+    "b3": "disklavier/Disklavier_High_Vel__039.wav",
+
+
+
+    "c4": "disklavier/Disklavier_High_Vel__040.wav",
+    "c#4": "disklavier/Disklavier_High_Vel__041.wav",
+    "d4": "disklavier/Disklavier_High_Vel__042.wav",
+    "d#4": "disklavier/Disklavier_High_Vel__043.wav",
+    "e4": "disklavier/Disklavier_High_Vel__044.wav",
+    "f4": "disklavier/Disklavier_High_Vel__045.wav",
+
+    "f#4": "disklavier/Disklavier_High_Vel__046.wav",
+    "g4": "disklavier/Disklavier_High_Vel__047.wav",
+    "g#4": "disklavier/Disklavier_High_Vel__048.wav",
+    "a4": "disklavier/Disklavier_High_Vel__049.wav",
+    "a#4": "disklavier/Disklavier_High_Vel__050.wav",
+    "b4": "disklavier/Disklavier_High_Vel__051.wav",
+
+
+
+
+    "c5": "disklavier/Disklavier_High_Vel__052.wav",
+    "c#5": "disklavier/Disklavier_High_Vel__053.wav",
+    "d5": "disklavier/Disklavier_High_Vel__054.wav",
+    "d#5": "disklavier/Disklavier_High_Vel__055.wav",
+    "e5": "disklavier/Disklavier_High_Vel__056.wav",
+    "f5": "disklavier/Disklavier_High_Vel__057.wav",
+
+    "f#5": "disklavier/Disklavier_High_Vel__058.wav",
+    "g5": "disklavier/Disklavier_High_Vel__059.wav",
+    "g#5": "disklavier/Disklavier_High_Vel__060.wav",
+    "a5": "disklavier/Disklavier_High_Vel__061.wav",
+    "a#5": "disklavier/Disklavier_High_Vel__062.wav",
+    "b5": "disklavier/Disklavier_High_Vel__063.wav",
+
+
+
+    "c6": "disklavier/Disklavier_High_Vel__064.wav",
+    "c#6": "disklavier/Disklavier_High_Vel__065.wav",
+    "d6": "disklavier/Disklavier_High_Vel__066.wav",
+    "d#6": "disklavier/Disklavier_High_Vel__067.wav",
+    "e6": "disklavier/Disklavier_High_Vel__068.wav",
+    "f6": "disklavier/Disklavier_High_Vel__069.wav",
+
+    "f#6": "disklavier/Disklavier_High_Vel__070.wav",
+    "g6": "disklavier/Disklavier_High_Vel__071.wav",
+    "g#6": "disklavier/Disklavier_High_Vel__072.wav",
+    "a6": "disklavier/Disklavier_High_Vel__073.wav",
+    "a#6": "disklavier/Disklavier_High_Vel__074.wav",
+    "b6": "disklavier/Disklavier_High_Vel__075.wav",
+
+
+
+    "c7": "disklavier/Disklavier_High_Vel__076.wav",
+    "c#7": "disklavier/Disklavier_High_Vel__077.wav",
+    "d7": "disklavier/Disklavier_High_Vel__078.wav",
+    "d#7": "disklavier/Disklavier_High_Vel__079.wav",
+    "e7": "disklavier/Disklavier_High_Vel__080.wav",
+    "f7": "disklavier/Disklavier_High_Vel__081.wav",
+
+    "f#7": "disklavier/Disklavier_High_Vel__082.wav",
+    "g7": "disklavier/Disklavier_High_Vel__083.wav",
+    "g#7": "disklavier/Disklavier_High_Vel__084.wav",
+    "a7": "disklavier/Disklavier_High_Vel__085.wav",
+    "a#7": "disklavier/Disklavier_High_Vel__086.wav",
+    "b7": "disklavier/Disklavier_High_Vel__087.wav",
+
+
+
+    "c8": "disklavier/Disklavier_High_Vel__088.wav",
+
+  },
+
+
+
+    
+
      "8choir": {
     "f5": "mellotron/8choir/F5.wav",
     "f4": "mellotron/8choir/F4.wav",
