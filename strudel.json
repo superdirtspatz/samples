@@ -208,11 +208,11 @@
     "ah": "talk_talk/ah.mp3",
     "future": "talk_talk/david_lynch_future.mp3",
 
-"awdrum_mid": ["beats/African_Wooden_Drum_01_Mid_01.wav", "beats/African_Wooden_Drum_02_Mid_02.wav",
-"beats/African_Wooden_Drum_06_Mid_03.wav", "beats/African_Wooden_Drum_07_Mid_04.wav", "beats/African_Wooden_Drum_08_Mid_05.wav"],
-"awdrum_low": ["beats/African_Wooden_Drum_03_Low_01.wav", "beats/African_Wooden_Drum_04_Low_02.wav"],
-"awdrum_hit": ["beats/African_Wooden_Drum_05_Hit_01.wav"],
-"awdrum_high": ["beats/African_Wooden_Drum_08_High_02.wav"],
+"awdrum_mid": ["beats/african_wooden_drum/African_Wooden_Drum_01_Mid_01.wav", "beats/african_wooden_drum/African_Wooden_Drum_02_Mid_02.wav",
+"beats/african_wooden_drum/African_Wooden_Drum_06_Mid_03.wav", "beats/african_wooden_drum/African_Wooden_Drum_07_Mid_04.wav", "beats/african_wooden_drum/African_Wooden_Drum_08_Mid_05.wav"],
+"awdrum_low": ["beats/african_wooden_drum/African_Wooden_Drum_03_Low_01.wav", "beats/african_wooden_drum/African_Wooden_Drum_04_Low_02.wav"],
+"awdrum_hit": ["beats/african_wooden_drum/African_Wooden_Drum_05_Hit_01.wav"],
+"awdrum_high": ["beats/african_wooden_drum/African_Wooden_Drum_08_High_02.wav"],
 
 "logdrum_mid": ["beats/African_Wooden_Drum_01_Mid_01.wav", "beats/African_Wooden_Drum_02_Mid_02.wav",
 "beats/African_Wooden_Drum_06_Mid_03.wav", "beats/African_Wooden_Drum_07_Mid_04.wav", "beats/African_Wooden_Drum_08_Mid_05.wav"],
