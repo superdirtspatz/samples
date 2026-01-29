@@ -1,5 +1,10 @@
 {
     "_base": "https://raw.githubusercontent.com/superdirtspatz/samples/main/",
+    "blood": "beats/blood_fire.mp3",
+    "hard": "beats/hard_steppin.mp3",
+    "door": "looking_at_the_front_door.mp3",
+    "kid": "royal_kid.mp3",
+    
     "louis_cole": "beats/cole_0.mp3",
     "cole_zero": "beats/cole_0.mp3",
     "fisherman": "beats/fisherman_0.mp3",
