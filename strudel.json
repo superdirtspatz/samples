@@ -11,7 +11,7 @@
     "mim_one": "beats/music_is_mine_01.mp3",
     "mim_two": "beats/music_is_mine_02.mp3",
 
-    "spielen": "talk_talk/-spielen_ist_gut_für_das_menschliche_gehirn_fr-FR_f.wav",
+    "spielen": "talk_talk/spielen_ist_gut_für_das_menschliche_gehirn_fr-FR_f.wav",
     
     "mim": ["beats/music_is_mine_01.mp3", "beats/music_is_mine_02.mp3"],
 
