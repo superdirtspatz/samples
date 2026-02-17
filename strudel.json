@@ -6,6 +6,7 @@
     "kid": "beats/royal_kid.mp3",
     
     "birds": ["talk_talk/STE-000.wav", "talk_talk/STE-131.mp3"],
+    "magpie": "talk_talk/magpie.mp3", 
     
     "louis_cole": "beats/cole_0.mp3",
     "cole_zero": "beats/cole_0.mp3",
