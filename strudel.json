@@ -236,6 +236,9 @@
 "beats/african_wooden_drum/African_Wooden_Drum_05_Hit_01.wav",
 "beats/african_wooden_drum/African_Wooden_Drum_08_High_02.wav"],
 
+"rhodes_sire": "sire/unnamed_rhodes_track_Em_99bpm_4_4_mysticedge_americansound_carboncopy.mp3",
+
+
 
     "between": "beats/between.mp3",
     "nennt": "beats/nennt.mp3",
@@ -1066,6 +1069,4 @@
 
  "c7": ["rhodes/stereo/As_096__C7_459-stereo.flac", "rhodes/stereo/As_096__C7_529-stereo.flac", "As_096__C7_2107-stereo.flac"]
        },
-
-  "rhodes_sire": "sire/unnamed_rhodes_track_Em_99bpm_4.4_mysticedge_americansound_carboncopy.mp3",
  } 
