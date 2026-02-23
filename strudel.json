@@ -41,9 +41,15 @@
     "jazz_one": "talk_talk/jazz_1.mp3", 
     "jazz_two": "talk_talk/jazz_2.mp3",
     "jazz_three": "talk_talk/jazz_3.mp3",
+
+    "jazzz": ["talk_talk/jazz_0.mp3", "talk_talk/jazz_1.mp3", "talk_talk/jazz_2.mp3", "talk_talk/jazz_3.mp3"],
+    
     "patton_zero": "talk_talk/patton_0.mp3", 
     "patton_one": "talk_talk/patton_1.mp3", 
     "patton_two": "talk_talk/patton_2.mp3",
+
+    "patton": ["talk_talk/patton_0.mp3", "talk_talk/patton_1.mp3", "talk_talk/patton_2.mp3"],
+    
     "zilpzalp_zero": "talk_talk/zilpzalp_0.mp3",
     "zilpzalp": "talk_talk/zilpzalp_0.mp3",
     "j_0": "talk_talk/add_this_0.mp3",
