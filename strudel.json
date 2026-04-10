@@ -147,6 +147,19 @@
     "ff_sd": ["beats/amherst/Snare1.wav", "beats/amherst/Snare5.wav", "beats/amherst/Snare7.wav"],
     "ff_bd": ["beats/amherst/Kick6.wav", "beats/amherst/Kick8.wav", "beats/amherst/Kick9.wav"],
 
+    
+    "sega_bd": ["beats/sega/bd1.wav", "beats/sega/bd2.wav", "beats/sega/bd3.wav"],
+    "sega_cp": ["beats/sega/cp1.wav"],
+    "sega_hh": ["beats/sega/hh1.wav", "beats/sega/hh2.wav"],
+    "sega_oh": ["beats/sega/oh1.wav"],
+    "sega_perc": ["beats/sega/perc1.wav", "beats/sega/perc2.wav"],
+    "sega_cr": ["beats/sega/cr1.wav"],
+    "sega_sd": ["beats/sega/sd1.wav", "beats/sega/sd2.wav"],
+    "sega_lt": ["beats/sega/lt1.wav", "beats/sega/lt2.wav"],
+    "sega_mt": ["beats/sega/mt1.wav", "beats/sega/mt2.wav"],
+    "sega_ht": ["beats/sega/ht1.wav"],
+    
+
     "tempest_bd": ["beats/tempest/bd-01.wav", "beats/tempest/bd-55.wav"],
     "tempest_cb": ["beats/tempest/cb-9.wav", "beats/tempest/cb-8.wav"],
     "tempest_cp": ["beats/tempest/cp-08.wav", "beats/tempest/cp-05.wav", "beats/tempest/cp-06.wav"],
