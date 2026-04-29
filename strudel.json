@@ -279,6 +279,24 @@
     "wild_two": "beats/wild.mp3",
     "badman": "beats/badman.wav",
 
+     "hit": {
+
+"c2":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_001.wav",
+"g2":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_002.wav",
+"c3":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_003.wav",
+"g3":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_004.wav",
+"c4":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_005.wav",
+"g4":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_006.wav",
+"c5":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_007.wav",
+"g5":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_008.wav",
+"c6":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_009.wav",
+"g6":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_010.wav",
+"c7":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_011.wav",
+"g7":  "jv30/JV-30_Ensemble_12_Orchestra_Hit_012.wav"
+
+  },
+    
+
      "dk": {
 
     "a0": "disklavier/Disklavier_High_Vel__001.wav",
