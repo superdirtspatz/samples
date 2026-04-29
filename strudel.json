@@ -43,6 +43,12 @@
 
     "science": ["talk_talk/science_0.mp3", "talk_talk/science_1.mp3", "talk_talk/science_2.mp3"],
     
+    "hello": ["talk_talk/hello.mp3"],
+    "hey": ["talk_talk/hey-1.mp3", "talk_talk/hey-2.mp3"],
+    "listen": ["talk_talk/listen-1.mp3", "talk_talk/listen-2.mp3"],
+    "look": ["talk_talk/look-1.mp3", "talk_talk/look-2.mp3"],
+    "watchout": ["talk_talk/watch-out-1.mp3", "talk_talk/watch-out-2.mp3"],
+
     "helge_zero": "talk_talk/helge_0.mp3", 
     "helge_one": "talk_talk/helge_1.mp3",
 
