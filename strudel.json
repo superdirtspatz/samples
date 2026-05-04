@@ -7,6 +7,15 @@
     "sp1200_sd": ["beats/sp1200/sp1200_sd_1.mp3", "beats/sp1200/sp1200_sd_0.mp3"],
     "sp1200_hh": ["beats/sp1200/sp1200_hh_0.mp3", "beats/sp1200/sp1200_hh_1.mp3"],
 
+    "castanet": ["beats/castanets/castanets1.wav", "beats/castanets/castanets2.wav", 
+        "beats/castanets/castanets3.wav", "beats/castanets/castanets4.wav", 
+        "beats/castanets/castanets5.wav", "beats/castanets/castanets6.wav", 
+        "beats/castanets/castanets7.wav", "beats/castanets/castanets8.wav", 
+        "beats/castanets/castanets9.wav", "beats/castanets/castanets10.wav", 
+        "beats/castanets/castanets11.wav", "beats/castanets/castanets12.wav", 
+        "beats/castanets/castanets13.wav", "beats/castanets/castanets14.wav", 
+        "beats/castanets/castanets15.wav", "beats/castanets/castanets8.wav"],
+
     "mule": "beats/mule.wav",
     "blood": "beats/blood_fire.mp3",
     "hard": "beats/hard_steppin.mp3",
