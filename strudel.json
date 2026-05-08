@@ -246,22 +246,17 @@
 "d_mt": ["beats/dirt/MT0D0.wav","beats/dirt/MT0D3.wav","beats/dirt/MT0D7.wav","beats/dirt/MT0DA.wav"],
 "d_oh": ["beats/dirt/HHOD0.wav","beats/dirt/HHOD2.wav","beats/dirt/HHOD4.wav","beats/dirt/HHOD6.wav"],
 "d_cb": ["beats/dirt/rytm-cb.wav"],
-
-
-"ahh": ["vowels/female_ahh_01.wav","vowels/female_ahh_02.wav"],
-"ehh": ["vowels/female_ehh_01.wav","vowels/female_ehh_02.wav"],
-"ihh": ["vowels/female_ihh_02.wav","vowels/female_ihh_01.wav"],
-"ohh": ["vowels/female_ohh_01.wav","vowels/female_ohh_02.wav"],
-"uhh": ["vowels/female_uhh_01.wav","vowels/female_uhh_0.wav"],
-    
+ 
 "aah": ["vowels/female_ahh_01.wav","vowels/female_ahh_02.wav"],
 "eeh": ["vowels/female_ehh_01.wav","vowels/female_ehh_02.wav"],
 "iih": ["vowels/female_ihh_02.wav","vowels/female_ihh_01.wav"],
 "ooh": ["vowels/female_ohh_01.wav","vowels/female_ohh_02.wav"],
 "uuh": ["vowels/female_uhh_01.wav","vowels/female_uhh_0.wav"],
+
+"click": ["beats/clicks/click1.wav", "beats/clicks/click2.wav", "beats/clicks/click3.wav", "beats/clicks/click4.wav"],
     
-    "ah": "talk_talk/ah.mp3",
-    "future": "talk_talk/david_lynch_future.mp3",
+"ah": "talk_talk/ah.mp3",
+"future": "talk_talk/david_lynch_future.mp3",
 
 "awdrum_mid": ["beats/african_wooden_drum/African_Wooden_Drum_01_Mid_01.wav", "beats/african_wooden_drum/African_Wooden_Drum_02_Mid_02.wav",
 "beats/african_wooden_drum/African_Wooden_Drum_06_Mid_03.wav", "beats/african_wooden_drum/African_Wooden_Drum_07_Mid_04.wav", "beats/african_wooden_drum/African_Wooden_Drum_08_Mid_05.wav"],
