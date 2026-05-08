@@ -253,7 +253,7 @@
 "ooh": ["vowels/female_ohh_01.wav","vowels/female_ohh_02.wav"],
 "uuh": ["vowels/female_uhh_01.wav","vowels/female_uhh_0.wav"],
 
-"click": ["beats/clicks/click1.wav", "beats/clicks/click2.wav", "beats/clicks/click3.wav", "beats/clicks/click4.wav"],
+"click": ["beats/clicks/click1.wav"],
     
 "ah": "talk_talk/ah.mp3",
 "future": "talk_talk/david_lynch_future.mp3",
