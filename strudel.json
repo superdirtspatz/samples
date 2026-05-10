@@ -1189,6 +1189,56 @@
 
      "gb4": ["ep200/gb4mp.flac"]
 
+},
+
+    
+      "cp80": {
+
+    "d#1": ["cp80/027-D#1-PP.flac", "cp80/027-D#1-MP.flac", "cp80/027-D#1-F.flac", "cp80/027-D#1-FF.flac"],
+
+     "a#1": ["cp80/034-A#1-PP.flac", "cp80/034-A#1-MP.flac"],
+
+     "b1": ["cp80/035-B1-F.flac", "cp80/035-B1-FF.flac"],
+
+    "f#2": ["cp80/042-F#2-PP.flac", "cp80/042-F#2-MP.flac", "cp80/042-F#2-F.flac", "cp80/042-F#2-FF.flac"],
+
+     "a#2": ["cp80/046-A#2-MP.flac", "cp80/046-A#2-F.flac", "cp80/046-A#2-FF.flac"],
+
+    "d3": ["cp80/050-D3-PP.flac", "cp80/050-D3-MP.flac", "cp80/050-D3-F.flac", "cp80/050-D3-FF.flac"],
+
+    "f3": ["cp80/053-F3-MP.flac", "cp80/053-F3-F.flac", "cp80/053-F3-FF.flac"],
+
+    "a3": ["cp80/057-A3-PP.flac", "cp80/057-A3-MP.flac", "cp80/057-A3-F.flac", "cp80/057-A3-FF.flac"],
+
+    "c4": ["cp80/060-C4-MP.flac", "cp80/060-C4-F.flac", "cp80/060-C4-FF.flac"],
+
+    "d#4": ["cp80/063-D#4-PP.flac", "cp80/063-D#4-MP.flac", "cp80/063-D#4-F.flac", "cp80/063-D#4-FF.flac"],
+
+    "f4": ["cp80/065-F4-PP.flac", "cp80/065-F4-MP.flac", "cp80/065-F4-F.flac", "cp80/065-F4-FF.flac"],
+
+    "g#4": ["cp80/068-G#4-PP.flac", "cp80/068-G#4-MP.flac", "cp80/068-G#4-F.flac", "cp80/068-G#4-FF.flac"],
+
+    "c5": ["cp80/072-C5-PP.flac", "cp80/072-C5-MP.flac", "cp80/072-C5-F.flac", "cp80/072-C5-FF.flac"],
+
+    "e5": ["cp80/076-E5-MP.flac", "cp80/076-E5-F.flac", "cp80/076-E5-FF.flac"],
+
+    "g#5": ["cp80/080-G#5-PP.flac", "cp80/080-G#5-MP.flac", "cp80/080-G#5-F.flac", "cp80/080-G#5-FF.flac"],
+
+    "a#5": ["cp80/082-A#5-MP.flac", "cp80/082-A#5-F.flac", "cp80/082-A#5-FF.flac"],
+
+    "c#6": ["cp80/085-C#6-PP.flac", "cp80/085-C#6-MP.flac", "cp80/085-C#6-F.flac", "cp80/085-C#6-FF.flac"],
+
+"e6": ["cp80/088-E6-MP.flac", "cp80/088-E6-F.flac", "cp80/088-E6-FF.flac"],
+
+    "g6": ["cp80/091-G6-PP.flac", "cp80/091-G6-MP.flac", "cp80/091-G6-F.flac", "cp80/091-G6-FF.flac"],
+"b6": ["cp80/095-B6-MP.flac", "cp80/095-B6-F.flac", "cp80/095-B6-FF.flac"],
+
+    "c#7": ["cp80/097-C#7-PP.flac", "cp80/097-C#7-MP.flac", "cp80/097-C#7-F.flac", "cp80/097-C#7-FF.flac"],
+
+    "f#7": ["cp80/102-F#7-PP.flac", "cp80/102-F#7-MP.flac", "cp80/102-F#7-F.flac", "cp80/102-F#7-FF.flac"],
+
+    "b7": ["cp80/107-B7-PP.flac", "cp80/107-B7-MP.flac", "cp80/107-B7-F.flac", "cp80/107-B7-FF.flac"]
+
 }
     
 } 
