@@ -1143,5 +1143,53 @@
  "g6": ["rhodes/stereo/As_091__G6_457-stereo.flac", "rhodes/stereo/As_091__G6_527-stereo.flac", "As_091__G6_2105-stereo.flac"],
 
  "c7": ["rhodes/stereo/As_096__C7_459-stereo.flac", "rhodes/stereo/As_096__C7_529-stereo.flac", "As_096__C7_2107-stereo.flac"]
-       }
- } 
+       },
+
+      "ep200": {
+
+    "a1": ["ep200/a1pp.flac", "ep200/a1mp.flac", "ep200/a1f.flac", "ep200/a1ff.flac"],
+
+     "a2": ["ep200/a2mp.flac"],
+
+     "ab2": ["ep200/ab2pp.flac"],
+
+     "ab3": ["ep200/ab3pp.flac", "ep200/ab3mp.flac", "ep200/ab3f.flac", "ep200/ab3ff.flac"],
+
+     "ab4": ["ep200/ab4f.flac"],
+
+     "ab6": ["ep200/ab6mp.flac", "ep200/ab6f.flac"],
+
+     "b2": ["ep200/b2f.flac", "ep200/b2ff.flac"],
+
+     "b4": ["ep200/b4mp.flac"],
+
+     "c2": ["ep200/c2f.flac", "ep200/c2ff.flac"],
+
+     "db4": ["ep200/db4pp.flac", "ep200/db4mp.flac", "ep200/db4f.flac", "ep200/db4ff.flac"],
+
+     "db5": ["ep200/db5pp.flac", "ep200/db5mp.flac", "ep200/db5f.flac", "ep200/db5ff.flac"],
+
+     "db6": ["ep200/db6mp.flac", "ep200/db6f.flac"],
+
+     "e2": ["ep200/e2mp.flac"],
+
+     "e3": ["ep200/e3f.flac", "ep200/e3ff.flac"],
+
+     "e4": ["ep200/e4ff.flac"],
+
+     "eb3": ["ep200/eb3pp.flac", "ep200/eb3mp.flac"],
+
+     "f2": ["ep200/f2f.flac", "ep200/f2ff.flac"],
+
+     "f2": ["ep200/f2f.flac", "ep200/f2ff.flac"],
+
+     "g4": ["ep200/g4pp.flac", "ep200/g4ff.flac"],
+
+     "g5": ["ep200/g5mp.flac", "ep200/g5f.flac", "ep200/g5ff.flac"],
+
+     "gb4": ["ep200/gb4mp.flac"]
+
+}
+    
+} 
+
