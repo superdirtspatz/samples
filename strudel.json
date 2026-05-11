@@ -1237,6 +1237,49 @@
 
     "b7": ["cp80/107-B7-PP.flac", "cp80/107-B7-MP.flac", "cp80/107-B7-F.flac", "cp80/107-B7-FF.flac"]
 
+},
+
+    
+      "pianet": {
+
+    "f1": ["pianet/29_F1_P.flac", "pianet/29_F1_FF.flac"],
+
+    "a1": ["pianet/33_A1_P.flac", "pianet/33_A1_FF.flac"],
+
+    "c#2": ["pianet/37_C#2_P.flac", "pianet/37_C#2_FF.flac"],
+
+    "f2": ["pianet/41_F2_P.flac", "pianet/41_F2_FF.flac"],
+
+    "a2": ["pianet/45_A2_P.flac", "pianet/45_A2_FF.flac"],
+
+    "b2": ["pianet/47_B2_FF.flac"],
+
+    "c#3": ["pianet/49_C#3_P.flac", "pianet/49_C#3_FF.flac"],
+
+    "e3": ["pianet/52_E3_P.flac"],
+
+    "f3": ["pianet/53_F3_FF.flac"],
+
+    "a2": ["pianet/45_A2_P.flac", "pianet/45_A2_FF.flac"],
+
+    "a3": ["pianet/57_A3_P.flac", "pianet/57_A3_FF.flac"],
+
+    "c#4": ["pianet/61_C#4_P.flac", "pianet/61_C#4_FF.flac"],
+
+    "f4": ["pianet/65_F4_P.flac", "pianet/65_F4_FF.flac"],
+
+    "a4": ["pianet/69_A4_P.flac", "pianet/69_A4_FF.flac"],
+
+    "c#5": ["pianet/73_C#5_P.flac", "pianet/73_C#5_FF.flac"],
+
+    "f5": ["pianet/77_F5_P.flac", "pianet/77_F5_FF.flac"],
+
+    "a5": ["pianet/81_A5_P.flac", "pianet/81_A5_FF.flac"],
+
+    "c#6": ["pianet/85_C#6_P.flac", "pianet/85_C#6_FF.flac"],
+
+    "e6": ["pianet/88_E6_P.flac", "pianet/88_E6_FF.flac"]
+
 }
     
 } 
