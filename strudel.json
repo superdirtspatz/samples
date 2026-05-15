@@ -1280,7 +1280,90 @@
 
     "e6": ["pianet/88_E6_P.flac", "pianet/88_E6_FF.flac"]
 
+},
+
+    
+      "clavinet": {
+
+    "a1": ["clavinet/Clavinet A1.wav"],
+
+    "a3": ["clavinet/Clavinet A3.wav"],
+
+    "a5": ["clavinet/Clavinet A5.wav"],
+
+    "b2": ["clavinet/Clavinet B2.wav"],
+
+    "b4": ["clavinet/Clavinet B4.wav"],
+
+    "c2": ["clavinet/Clavinet C2.wav"],
+
+    "c4": ["clavinet/Clavinet C4.wav"],
+
+    "c6": ["clavinet/Clavinet C6.wav"],
+
+    "d3": ["clavinet/Clavinet D3.wav"],
+
+    "d5": ["clavinet/Clavinet D5.wav"],
+
+    "e2": ["clavinet/Clavinet E2.wav"],
+
+    "e4": ["clavinet/Clavinet E4.wav"],
+
+    "e6": ["clavinet/Clavinet E6.wav"],
+
+    "f1": ["clavinet/Clavinet F1.wav"],
+
+    "f3": ["clavinet/Clavinet F3.wav"],
+
+    "f5": ["clavinet/Clavinet F5.wav"],
+
+    "g2": ["clavinet/Clavinet G2.wav"],
+
+    "g4": ["clavinet/Clavinet G4.wav"]
+
 }
+,
+      "d6": {
+
+    "a1": ["clavinet/Clavinet A1.wav"],
+
+    "a3": ["clavinet/Clavinet A3.wav"],
+
+    "a5": ["clavinet/Clavinet A5.wav"],
+
+    "b2": ["clavinet/Clavinet B2.wav"],
+
+    "b4": ["clavinet/Clavinet B4.wav"],
+
+    "c2": ["clavinet/Clavinet C2.wav"],
+
+    "c4": ["clavinet/Clavinet C4.wav"],
+
+    "c6": ["clavinet/Clavinet C6.wav"],
+
+    "d3": ["clavinet/Clavinet D3.wav"],
+
+    "d5": ["clavinet/Clavinet D5.wav"],
+
+    "e2": ["clavinet/Clavinet E2.wav"],
+
+    "e4": ["clavinet/Clavinet E4.wav"],
+
+    "e6": ["clavinet/Clavinet E6.wav"],
+
+    "f1": ["clavinet/Clavinet F1.wav"],
+
+    "f3": ["clavinet/Clavinet F3.wav"],
+
+    "f5": ["clavinet/Clavinet F5.wav"],
+
+    "g2": ["clavinet/Clavinet G2.wav"],
+
+    "g4": ["clavinet/Clavinet G4.wav"]
+
+}
+
+    
     
 } 
 
