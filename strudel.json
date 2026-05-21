@@ -58,6 +58,13 @@
     "look": ["talk_talk/look-1.mp3", "talk_talk/look-2.mp3"],
     "watchout": ["talk_talk/watch-out-1.mp3", "talk_talk/watch-out-2.mp3"],
 
+    "focus": "talk_talk/focus.wav",
+    "somewhere": "talk_talk/somewhere.wav",
+    "add": "talk_talk/add.wav",
+    "write": "talk_talk/write.wav",
+    "doit": "talk_talk/doit.wav",
+    "true": ["talk_talk/showmeyourtrueform.wav", "illrevealyourtrueform.wav"],
+
     "helge_zero": "talk_talk/helge_0.mp3", 
     "helge_one": "talk_talk/helge_1.mp3",
 
