@@ -26,6 +26,9 @@
     "rehash": "beats/phase1/hash.wav",
     "five-four": "beats/phase1/54.wav",
     "fivefour": "beats/phase1/54.wav",
+    "sound-check": "beats/phase1/gravity.wav",
+    "soundcheck": "beats/phase1/gravity.wav",
+    "gravity": "beats/phase1/gravity.wav",
     "latin": "beats/phase1/latin.wav",
 
     "tropical": "talk_talk/DIS - Tropical Birds - 02 Tropical Birds 2.mp3",
