@@ -22,6 +22,12 @@
     "door": "beats/looking_at_the_front_door.mp3",
     "kid": "beats/royal_kid.mp3",
 
+    "re-hash": "beats/phase1/hash.wav",
+    "rehash": "beats/phase1/hash.wav",
+    "5/4": "beats/phase1/54.wav",
+    "54": "beats/phase1/54.wav",
+    "latin": "beats/phase1/latin.wav",
+
     "tropical": "talk_talk/DIS - Tropical Birds - 02 Tropical Birds 2.mp3",
     "birds": ["talk_talk/STE-000.wav", "talk_talk/STE-131.mp3"],
     "magpie": "talk_talk/magpie.mp3", 
