@@ -16,43 +16,14 @@
         "beats/castanets/castanets13.wav", "beats/castanets/castanets14.wav", 
         "beats/castanets/castanets15.wav", "beats/castanets/castanets8.wav"],
 
-          "saron": {
-
-    "593.5": ["saron/593.5Hz_saron_iron_gamelan.aiff"],
-
-"639.7": ["saron/639.7Hz_saron_iron_gamelan.aiff"],
-
-"699": ["saron/699Hz_saron_iron_gamelan.aiff"],
-
-"826.3": ["saron/826.3Hz_saron_iron_gamelan.aiff"],
-
-"885.8": ["saron/885.8Hz_saron_iron_gamelan.aiff"],
-
-"953.1": ["saron/953.1Hz_saron_iron_gamelan.aiff"],
-
-"1050": ["saron/1050Hz_saron_iron_gamelan.aiff"] 
-
-},
-
-
-      "sp": {
-
-    "593.5": ["saron/593.5Hz_sp_iron_gamelan.aiff"],
-
-"639.7": ["saron/639.7Hz_sp_iron_gamelan.aiff"],
-
-"699": ["saron/699Hz_sp_iron_gamelan.aiff"],
-
-"826.3": ["saron/826.3Hz_sp_iron_gamelan.aiff"],
-
-"885.8": ["saron/885.8Hz_sp_iron_gamelan.aiff"],
-
-"953.1": ["saron/953.1Hz_sp_iron_gamelan.aiff"],
-
-"1050": ["saron/1050Hz_sp_iron_gamelan.aiff"] 
-
-},
-
+    "saron": ["saron/593.5Hz_saron_iron_gamelan.aiff",
+"saron/639.7Hz_saron_iron_gamelan.aiff",
+"saron/699Hz_saron_iron_gamelan.aiff",
+"saron/826.3Hz_saron_iron_gamelan.aiff",
+"saron/885.8Hz_saron_iron_gamelan.aiff",
+"saron/953.1Hz_saron_iron_gamelan.aiff",
+"saron/1050Hz_saron_iron_gamelan.aiff"] 
+,
 
     "mule": "beats/mule.wav",
     "blood": "beats/blood_fire.mp3",
