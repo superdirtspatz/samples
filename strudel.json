@@ -37,14 +37,14 @@
     "def_ht": ["beats/def/kick1.wav"],
     "def_perc": ["beats/def/perc.wav"],
     "def_sd": ["beats/def/snare4.wav", "beats/def/snare1.wav", "beats/def/snare6.wav", "beats/def/snare5.wav"],
-    "def_bd": ["beats/def/kick2.wav", "beats/def/kick3.wav", "beats/def/Kick9.wav"],
+    "def_bd": ["beats/def/kick2.wav", "beats/def/kick3.wav"],
 
     "abe_hh": ["beats/def/hat1.wav", "beats/def/hat3.wav", "beats/def/hat2.wav"],
     "abe_cp": ["beats/def/snare7.wav"],
     "abe_ht": ["beats/def/kick1.wav"],
     "abe_perc": ["beats/def/perc.wav"],    
     "abe_sd": ["beats/def/snare4.wav", "beats/def/snare1.wav", "beats/def/snare6.wav", "beats/def/snare5.wav"],
-    "abe_bd": ["beats/def/kick2.wav", "beats/def/kick3.wav", "beats/def/Kick9.wav"],
+    "abe_bd": ["beats/def/kick2.wav", "beats/def/kick3.wav"],
 
     
     "tropical": "talk_talk/DIS - Tropical Birds - 02 Tropical Birds 2.mp3",
