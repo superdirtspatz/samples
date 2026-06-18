@@ -59,6 +59,7 @@
     "birds": ["talk_talk/STE-000.wav", "talk_talk/STE-131.mp3"],
     "magpie": "talk_talk/magpie.mp3", 
     "birds_in_forests": "talk_talk/845219__sgo75__birds-in-the-forests-of-brandenburg.mp3",
+    "pleasure": "talk_talk/pleasure.mp3",
     
     "louis_cole": "beats/cole_0.mp3",
     "cole_zero": "beats/cole_0.mp3",
@@ -68,6 +69,7 @@
     "mim_two": "beats/music_is_mine_02.mp3",
 
     "spielen": "talk_talk/spielen_ist_gut_für_das_menschliche_gehirn_fr-FR_f.wav",
+    
     
     "mim": ["beats/music_is_mine_01.mp3", "beats/music_is_mine_02.mp3"],
 
