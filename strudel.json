@@ -2,6 +2,7 @@
     "_base": "https://raw.githubusercontent.com/superdirtspatz/samples/main/",
 
     "airhorn": "airhorn.wav",
+    "smkhit": "smk-inst_6.wav",
 
     "sp1200_bd": ["beats/sp1200/sp1200_bd_0.mp3", "beats/sp1200/sp1200_bd_1.mp3"],
     "sp1200_sd": ["beats/sp1200/sp1200_sd_1.mp3", "beats/sp1200/sp1200_sd_0.mp3"],
