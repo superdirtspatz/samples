@@ -1406,6 +1406,29 @@
 
     "g4": ["clavinet/Clavinet G4.wav"]
 
+},
+          "kato": {
+
+    "a#5": ["kato/inst_0.wav"],
+
+    "a#4": ["kato/inst_1.wav"],
+
+    "f#6": ["kato/inst_2.wav"],
+
+    "f7": ["kato/inst_3.wav"],
+
+    "f#5": ["kato/inst_4.wav"],
+
+    "c#6": ["kato/inst_5.wav"],
+
+    "g5": ["kato/inst_6.wav"],
+
+    "a#4": ["kato/inst_7.wav"],
+
+    "g3": ["kato/inst_8.wav"],
+
+    "f3": ["kato/inst_9.wav"]
+
 }
 
     
