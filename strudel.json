@@ -4,6 +4,31 @@
     "airhorn": "airhorn.wav",
     "hit_": "smk-inst_6.wav",
 
+    "kato": {["a#5", "a#4", "f#6", "f7", "f#5",
+        "c#6", "g5", "a#4", "g3", "f3", "d7"]:
+        ["kato/inst_0.wav",
+        "kato/inst_1.wav",
+        "kato/inst_2.wav",
+        "kato/inst_3.wav",
+        "kato/inst_4.wav",
+        "kato/inst_5.wav",
+        "kato/inst_6.wav",
+        "kato/inst_7.wav",
+        "kato/inst_8.wav",
+        "kato/inst_9.wav"]},
+
+      "one_kato": {"a#5": ["kato/inst_0.wav"]},
+      "zwo_kato": {"a#4": ["kato/inst_1.wav"]},
+      "brass_kato": {"f#6": ["kato/inst_2.wav"]},
+      "lead_kato": {"f7": ["kato/inst_3.wav"]},
+      "guitar_kato": {"f#5": ["kato/inst_4.wav"]},
+      "overdrive_kato": {"c#6": ["kato/inst_5.wav"]},
+      "hit_kato": {"g5": ["kato/inst_6.wav"]},
+      "organ_kato": {"a#4": ["kato/inst_7.wav"]},
+      "piano_kato": {"g3": ["kato/inst_8.wav"]},
+      "bass_kato": {"f3": ["kato/inst_9.wav"]},
+      "whistle_kato": {"d7": ["kato/inst_10.wav"]},    
+
     "sp1200_bd": ["beats/sp1200/sp1200_bd_0.mp3", "beats/sp1200/sp1200_bd_1.mp3"],
     "sp1200_sd": ["beats/sp1200/sp1200_sd_1.mp3", "beats/sp1200/sp1200_sd_0.mp3"],
     "sp1200_hh": ["beats/sp1200/sp1200_hh_0.mp3", "beats/sp1200/sp1200_hh_1.mp3"],
@@ -1406,18 +1431,7 @@
 
     "g4": ["clavinet/Clavinet G4.wav"]
 
-},
-      "0_kato": {"a#5": ["kato/inst_0.wav"]},
-      "1_kato": {"a#4": ["kato/inst_1.wav"]},
-      "2_kato": {"f#6": ["kato/inst_2.wav"]},
-      "3_kato": {"f7": ["kato/inst_3.wav"]},
-      "4_kato": {"f#5": ["kato/inst_4.wav"]},
-      "5_kato": {"c#6": ["kato/inst_5.wav"]},
-      "6_kato": {"g5": ["kato/inst_6.wav"]},
-      "7_kato": {"a#4": ["kato/inst_7.wav"]},
-      "8_kato": {"g3": ["kato/inst_8.wav"]},
-      "9_kato": {"f3": ["kato/inst_9.wav"]},
-      "10_kato": {"d7": ["kato/inst_10.wav"]}    
+}
     
 } 
 
