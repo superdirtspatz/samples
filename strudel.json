@@ -4,9 +4,7 @@
     "airhorn": "airhorn.wav",
     "hit_": "smk-inst_6.wav",
 
-    "kato": {["a#5", "a#4", "f#6", "f7", "f#5",
-        "c#6", "g5", "a#4", "g3", "f3", "d7"]:
-        ["kato/inst_0.wav",
+    "kato": {["a#5", "a#4", "f#6", "f7", "f#5", "c#6", "g5", "a#4", "g3", "f3", "d7"]: ["kato/inst_0.wav",
         "kato/inst_1.wav",
         "kato/inst_2.wav",
         "kato/inst_3.wav",
