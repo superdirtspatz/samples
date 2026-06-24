@@ -6,7 +6,7 @@
 
       "one_kato": {"a#5": ["kato/inst_0.wav"]},
       "zwo_kato": {"a#4": ["kato/inst_1.wav"]},
-      "brass_kato": {"f#6": ["kato/inst_2.wav"]},
+      "brass_kato": {"f#6": ["kato/kato_2.wav"]},
       "lead_kato": {"f7": ["kato/inst_3.wav"]},
       "guitar_kato": {"f#5": ["kato/inst_4.wav"]},
       "overdrive_kato": {"c#6": ["kato/inst_5.wav"]},
