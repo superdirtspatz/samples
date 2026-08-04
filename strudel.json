@@ -39,7 +39,7 @@
 
 "btz": ["beats/btz_1.wav", "beats/btz_2.wav", "beats/btz_3.wav", "beats/btz_4.wav", "beats/btz_5.wav"],
 
-    "gnar": ["beats/fd.wav", "beats/fd2.wav", "beats/fd3.wav"],
+    "gnar": ["beats/fd.wav", "beats/fd2.wav", "beats/fd-3.wav"],
     "mule": "beats/mule.wav",
     "blood": "beats/blood_fire.mp3",
     "hard": "beats/hard_steppin.mp3",
