@@ -37,7 +37,7 @@
 "saron/953.1Hz_saron_iron_gamelan.wav",
 "saron/1050Hz_saron_iron_gamelan.wav"],
 
-"btz": ["btz_1.wav", "btz_2.wav", "btz_3.wav", "btz_4.wav", "btz_5.wav"],
+"btz": ["beats/btz_1.wav", "beats/btz_2.wav", "beats/btz_3.wav", "beats/btz_4.wav", "beats/btz_5.wav"],
 
     "mule": "beats/mule.wav",
     "blood": "beats/blood_fire.mp3",
