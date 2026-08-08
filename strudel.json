@@ -29,6 +29,13 @@
         "beats/castanets/castanets13.wav", "beats/castanets/castanets14.wav", 
         "beats/castanets/castanets15.wav", "beats/castanets/castanets8.wav"],
 
+    "perc_kato": ["beats/kato/kato_perc_0.wav", "beats/kato/kato_perc_1.wav",
+    "beats/kato/kato_perc_2.wav", "beats/kato/kato_perc_3.wav",
+    "beats/kato/kato_perc_4.wav", "beats/kato/kato_perc_5.wav",
+    "beats/kato/kato_perc_6.wav", "beats/kato/kato_perc_7.wav", 
+      "beats/kato/kato_perc_8.wav", "beats/kato/kato_perc_9.wav",
+      "beats/kato/kato_perc_10.wav"],
+    
     "saron": ["saron/593.5Hz_saron_iron_gamelan.wav",
 "saron/639.7Hz_saron_iron_gamelan.wav",
 "saron/699Hz_saron_iron_gamelan.wav",
