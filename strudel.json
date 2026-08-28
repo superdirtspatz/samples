@@ -89,7 +89,8 @@
     "birds_in_forests": "talk_talk/845219__sgo75__birds-in-the-forests-of-brandenburg.mp3",
     "pleasure": "talk_talk/pleasure.mp3",
     "get": "talk_talk/getitout.mp3",
-    
+    "flowers": {"f4": "talk_talk/flowers.wav"},
+
     "louis_cole": "beats/cole_0.mp3",
     "cole_zero": "beats/cole_0.mp3",
     "cole": "beats/cole_0.mp3",
