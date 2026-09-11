@@ -396,8 +396,112 @@
 "g6":  "jv30/JV-30_Ensemble_10_Choir_Ooohs_012.wav"
 
   },
-    
 
+
+    
+      "dx7metal": {
+
+    "a0": ["dexed/dx7metal A-1"],
+    "a#0": ["dexed/dx7metal A#-1"],
+    "b0": ["dexed/dx7metal B-1"],
+
+    "c1": ["dexed/dx7metal C-2"],
+    "c#1": ["dexed/dx7metal C#-2"],
+    "d1": ["dexed/dx7metal D-2"],
+    "d#1": ["dexed/dx7metal D#-2"],
+    "e1": ["dexed/dx7metal E-2"],
+    "f1": ["dexed/dx7metal F-2"],
+    "f#1": ["dexed/dx7metal F#-2"],
+    "g1": ["dexed/dx7metal G-2"],
+    "g#1": ["dexed/dx7metal G#-2"],
+    "a1": ["dexed/dx7metal A-2"],
+    "a#1": ["dexed/dx7metal A#-2"],
+    "b1": ["dexed/dx7metal B-2"],
+
+    "c2": ["dexed/dx7metal C-3"],
+    "c#2": ["dexed/dx7metal C#-3"],
+    "d2": ["dexed/dx7metal D-3"],
+    "d#2": ["dexed/dx7metal D#-3"],
+    "e2": ["dexed/dx7metal E-3"],
+    "f2": ["dexed/dx7metal F-3"],
+    "f#2": ["dexed/dx7metal F#-3"],
+    "g2": ["dexed/dx7metal G-3"],
+    "g#2": ["dexed/dx7metal G#-3"],
+    "a2": ["dexed/dx7metal A-3"],
+    "a#2": ["dexed/dx7metal A#-3"],
+    "b2": ["dexed/dx7metal B-3"],
+
+    "c3": ["dexed/dx7metal C-4"],
+    "c#3": ["dexed/dx7metal C#-4"],
+    "d3": ["dexed/dx7metal D-4"],
+    "d#3": ["dexed/dx7metal D#-4"],
+    "e3": ["dexed/dx7metal E-4"],
+    "f3": ["dexed/dx7metal F-4"],
+    "f#3": ["dexed/dx7metal F#-4"],
+    "g3": ["dexed/dx7metal G-4"],
+    "g#3": ["dexed/dx7metal G#-4"],
+    "a3": ["dexed/dx7metal A-4"],
+    "a#3": ["dexed/dx7metal A#-4"],
+    "b3": ["dexed/dx7metal B-4"],
+
+    "c4": ["dexed/dx7metal C-5"],
+    "c#4": ["dexed/dx7metal C#-5"],
+    "d4": ["dexed/dx7metal D-5"],
+    "d#4": ["dexed/dx7metal D#-5"],
+    "e4": ["dexed/dx7metal E-5"],
+    "f4": ["dexed/dx7metal F-5"],
+    "f#4": ["dexed/dx7metal F#-5"],
+    "g4": ["dexed/dx7metal G-5"],
+    "g#4": ["dexed/dx7metal G#-5"],
+    "a4": ["dexed/dx7metal A-5"],
+    "a#4": ["dexed/dx7metal A#-5"],
+    "b4": ["dexed/dx7metal B-5"],
+
+    "c5": ["dexed/dx7metal C-6"],
+    "c#5": ["dexed/dx7metal C#-6"],
+    "d5": ["dexed/dx7metal D-6"],
+    "d#5": ["dexed/dx7metal D#-6"],
+    "e5": ["dexed/dx7metal E-6"],
+    "f5": ["dexed/dx7metal F-6"],
+    "f#5": ["dexed/dx7metal F#-6"],
+    "g5": ["dexed/dx7metal G-6"],
+    "g#5": ["dexed/dx7metal G#-6"],
+    "a5": ["dexed/dx7metal A-6"],
+    "a#5": ["dexed/dx7metal A#-6"],
+    "b5": ["dexed/dx7metal B-6"],
+
+    "c6": ["dexed/dx7metal C-7"],
+    "c#6": ["dexed/dx7metal C#-7"],
+    "d6": ["dexed/dx7metal D-7"],
+    "d#6": ["dexed/dx7metal D#-7"],
+    "e6": ["dexed/dx7metal E-7"],
+    "f6": ["dexed/dx7metal F-7"],
+    "f#6": ["dexed/dx7metal F#-7"],
+    "g6": ["dexed/dx7metal G-7"],
+    "g#6": ["dexed/dx7metal G#-7"],
+    "a6": ["dexed/dx7metal A-7"],
+    "a#6": ["dexed/dx7metal A#-7"],
+    "b6": ["dexed/dx7metal B-7"],
+
+    "c7": ["dexed/dx7metal C-8"],
+    "c#7": ["dexed/dx7metal C#-8"],
+    "d7": ["dexed/dx7metal D-8"],
+    "d#7": ["dexed/dx7metal D#-8"],
+    "e7": ["dexed/dx7metal E-8"],
+    "f7": ["dexed/dx7metal F-8"],
+    "f#7": ["dexed/dx7metal F#-8"],
+    "g7": ["dexed/dx7metal G-8"],
+    "g#7": ["dexed/dx7metal G#-8"],
+    "a7": ["dexed/dx7metal A-8"],
+    "a#7": ["dexed/dx7metal A#-8"],
+    "b7": ["dexed/dx7metal B-8"],
+
+    "c8": ["dexed/dx7metal C-9"]
+
+	},
+
+    
+    
      "dk": {
 
     "a0": "disklavier/Disklavier_High_Vel__001.wav",
