@@ -67,6 +67,7 @@
     "gravity": "beats/phase1/gravity.wav",
     "latin": "beats/phase1/latin.wav",
 
+	"motor": "beats/motor.wav",
 
     "def_hh": ["beats/def/hat1.wav", "beats/def/hat3.wav", "beats/def/hat2.wav"],
     "def_cp": ["beats/def/snare7.wav"],
