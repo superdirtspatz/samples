@@ -133,6 +133,8 @@
     "doit": "talk_talk/doit.wav",
     "true": ["talk_talk/showmeyourtrueform.wav", "talk_talk/illrevealyourtrueform.wav"],
 
+	"cp80bass": "cp80bass.wav",
+
     "helge_zero": "talk_talk/helge_0.mp3", 
     "helge_one": "talk_talk/helge_1.mp3",
 
