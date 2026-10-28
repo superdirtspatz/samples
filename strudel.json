@@ -1295,6 +1295,212 @@
     "e4": "mellotron/m300b/E4.wav"
   },
 
+      "cravo": {
+
+    "e2": ["cravo/381515__pjcohen__harpsichord_e2.wav"],
+
+    "e3": ["cravo/381514__pjcohen__harpsichord_e3.wav"],
+
+    "d5": ["cravo/381513__pjcohen__harpsichord_d5.wav",
+"cravo/381471__pjcohen__harpsichord_d5.wav"],
+
+    "e1": ["cravo/381512__pjcohen__harpsichord_e1.wav"],
+
+    "d3": ["cravo/381511__pjcohen__harpsichord_d3.wav",
+"cravo/381481__pjcohen__harpsichord_d3.wav"],
+
+    "d4": ["cravo/381510__pjcohen__harpsichord_d4.wav",
+"cravo/381470__pjcohen__harpsichord_d4.wav"],
+
+    "d1": ["cravo/381509__pjcohen__harpsichord_d1.wav",
+"cravo/381483__pjcohen__harpsichord_d1.wav"],
+
+    "d2": ["cravo/381508__pjcohen__harpsichord_d2.wav",
+"cravo/381480__pjcohen__harpsichord_d2.wav"],
+
+    "g3": ["cravo/381507__pjcohen__harpsichord_g3.wav", 
+"cravo/381499__pjcohen__harpsichord_g3.wav"],
+
+    "g4": ["cravo/381506__pjcohen__harpsichord_g4.wav",
+"cravo/381487__pjcohen__harpsichord_g4.wav"],
+
+    "g1": ["cravo/381505__pjcohen__harpsichord_g1.wav",
+"cravo/381466__pjcohen__harpsichord_g1.wav"],
+
+    "e4": ["cravo/381504__pjcohen__harpsichord_e4.wav"],
+
+    "e5": ["cravo/381503__pjcohen__harpsichord_e5.wav"],
+
+    "g2": ["cravo/381502__pjcohen__harpsichord_g2.wav", 
+"cravo/381484__pjcohen__harpsichord_g2.wav"],
+
+    "c4": ["cravo/381501__pjcohen__harpsichord_c4.wav",
+"cravo/381477__pjcohen__harpsichord_c4.wav"],
+
+    "c5": ["cravo/381500__pjcohen__harpsichord_c5.wav",
+"cravo/381482__pjcohen__harpsichord_c5.wav"],
+
+    "b4": ["cravo/381498__pjcohen__harpsichord_b4.wav"],
+
+    "c1": ["cravo/381497__pjcohen__harpsichord_c1.wav",
+"cravo/381478__pjcohen__harpsichord_c1.wav"],
+
+    "c2": ["cravo/381496__pjcohen__harpsichord_c2.wav",
+"cravo/381479__pjcohen__harpsichord_c2.wav"],
+
+    "c3": ["cravo/381495__pjcohen__harpsichord_c3.wav",
+"cravo/381476__pjcohen__harpsichord_c3.wav"],
+
+    "b0": ["cravo/381494__pjcohen__harpsichord_b0.wav"],
+
+    "b1": ["cravo/381493__pjcohen__harpsichord_b1.wav"],
+
+    "b2": ["cravo/381492__pjcohen__harpsichord_b2.wav"],
+
+    "b3": ["cravo/381491__pjcohen__harpsichord_b3.wav"],
+
+    "g0": ["cravo/381490__pjcohen__harpsichord_g0.wav", 
+"cravo/381485__pjcohen__harpsichord_g0.wav"],
+
+    "f4": ["cravo/381489__pjcohen__harpsichord_f4.wav",
+"cravo/381472__pjcohen__harpsichord_f4.wav"],
+
+    "f3": ["cravo/381488__pjcohen__harpsichord_f3.wav", 
+"cravo/381486__pjcohen__harpsichord_f3.wav"],
+
+    "f2": ["cravo/381475__pjcohen__harpsichord_f2.wav",
+"cravo/381467__pjcohen__harpsichord_f2.wav"],
+
+    "f1": ["cravo/381474__pjcohen__harpsichord_f1.wav", 
+"cravo/381469__pjcohen__harpsichord_f1.wav"],
+
+    "f0": ["cravo/381473__pjcohen__harpsichord_f0.wav",
+"cravo/381468__pjcohen__harpsichord_f0.wav"],
+
+    "a3": ["cravo/381465__pjcohen__harpsichord_a3.wav",
+"cravo/381456__pjcohen__harpsichord_a3.wav"],
+
+    "a4": ["cravo/381464__pjcohen__harpsichord_a4.wav",
+"cravo/381463__pjcohen__harpsichord_a4.wav"],
+
+    "a0": ["cravo/381462__pjcohen__harpsichord_a0.wav", 
+"cravo/381459__pjcohen__harpsichord_a0.wav"],
+
+    "a1": ["cravo/381461__pjcohen__harpsichord_a1.wav",
+"cravo/381458__pjcohen__harpsichord_a1.wav"],
+
+    "a2": ["cravo/381460__pjcohen__harpsichord_a2.wav",
+"cravo/381457__pjcohen__harpsichord_a2.wav"]
+
+},
+
+
+      "cembalo": {
+
+    "e2": ["cravo/381515__pjcohen__harpsichord_e2.wav"],
+
+    "e3": ["cravo/381514__pjcohen__harpsichord_e3.wav"],
+
+    "d5": ["cravo/381513__pjcohen__harpsichord_d5.wav",
+"cravo/381471__pjcohen__harpsichord_d5.wav"],
+
+    "e1": ["cravo/381512__pjcohen__harpsichord_e1.wav"],
+
+    "d3": ["cravo/381511__pjcohen__harpsichord_d3.wav",
+"cravo/381481__pjcohen__harpsichord_d3.wav"],
+
+    "d4": ["cravo/381510__pjcohen__harpsichord_d4.wav",
+"cravo/381470__pjcohen__harpsichord_d4.wav"],
+
+    "d1": ["cravo/381509__pjcohen__harpsichord_d1.wav",
+"cravo/381483__pjcohen__harpsichord_d1.wav"],
+
+    "d2": ["cravo/381508__pjcohen__harpsichord_d2.wav",
+"cravo/381480__pjcohen__harpsichord_d2.wav"],
+
+    "g3": ["cravo/381507__pjcohen__harpsichord_g3.wav", 
+"cravo/381499__pjcohen__harpsichord_g3.wav"],
+
+    "g4": ["cravo/381506__pjcohen__harpsichord_g4.wav",
+"cravo/381487__pjcohen__harpsichord_g4.wav"],
+
+    "g1": ["cravo/381505__pjcohen__harpsichord_g1.wav",
+"cravo/381466__pjcohen__harpsichord_g1.wav"],
+
+    "e4": ["cravo/381504__pjcohen__harpsichord_e4.wav"],
+
+    "e5": ["cravo/381503__pjcohen__harpsichord_e5.wav"],
+
+    "g2": ["cravo/381502__pjcohen__harpsichord_g2.wav", 
+"cravo/381484__pjcohen__harpsichord_g2.wav"],
+
+    "c4": ["cravo/381501__pjcohen__harpsichord_c4.wav",
+"cravo/381477__pjcohen__harpsichord_c4.wav"],
+
+    "c5": ["cravo/381500__pjcohen__harpsichord_c5.wav",
+"cravo/381482__pjcohen__harpsichord_c5.wav"],
+
+    "b4": ["cravo/381498__pjcohen__harpsichord_b4.wav"],
+
+    "c1": ["cravo/381497__pjcohen__harpsichord_c1.wav",
+"cravo/381478__pjcohen__harpsichord_c1.wav"],
+
+    "c2": ["cravo/381496__pjcohen__harpsichord_c2.wav",
+"cravo/381479__pjcohen__harpsichord_c2.wav"],
+
+    "c3": ["cravo/381495__pjcohen__harpsichord_c3.wav",
+"cravo/381476__pjcohen__harpsichord_c3.wav"],
+
+    "b0": ["cravo/381494__pjcohen__harpsichord_b0.wav"],
+
+    "b1": ["cravo/381493__pjcohen__harpsichord_b1.wav"],
+
+    "b2": ["cravo/381492__pjcohen__harpsichord_b2.wav"],
+
+    "b3": ["cravo/381491__pjcohen__harpsichord_b3.wav"],
+
+    "g0": ["cravo/381490__pjcohen__harpsichord_g0.wav", 
+"cravo/381485__pjcohen__harpsichord_g0.wav"],
+
+    "f4": ["cravo/381489__pjcohen__harpsichord_f4.wav",
+"cravo/381472__pjcohen__harpsichord_f4.wav"],
+
+    "f3": ["cravo/381488__pjcohen__harpsichord_f3.wav", 
+"cravo/381486__pjcohen__harpsichord_f3.wav"],
+
+    "f2": ["cravo/381475__pjcohen__harpsichord_f2.wav",
+"cravo/381467__pjcohen__harpsichord_f2.wav"],
+
+    "f1": ["cravo/381474__pjcohen__harpsichord_f1.wav", 
+"cravo/381469__pjcohen__harpsichord_f1.wav"],
+
+    "f0": ["cravo/381473__pjcohen__harpsichord_f0.wav",
+"cravo/381468__pjcohen__harpsichord_f0.wav"],
+
+    "a3": ["cravo/381465__pjcohen__harpsichord_a3.wav",
+"cravo/381456__pjcohen__harpsichord_a3.wav"],
+
+    "a4": ["cravo/381464__pjcohen__harpsichord_a4.wav",
+"cravo/381463__pjcohen__harpsichord_a4.wav"],
+
+    "a0": ["cravo/381462__pjcohen__harpsichord_a0.wav", 
+"cravo/381459__pjcohen__harpsichord_a0.wav"],
+
+    "a1": ["cravo/381461__pjcohen__harpsichord_a1.wav",
+"cravo/381458__pjcohen__harpsichord_a1.wav"],
+
+    "a2": ["cravo/381460__pjcohen__harpsichord_a2.wav",
+"cravo/381457__pjcohen__harpsichord_a2.wav"]
+
+}
+
+,
+
+
+
+
+	
+
       "rhodes": {
 
     "f1": ["rhodes/stereo/As_029__F1_51-stereo.flac", "rhodes/stereo/As_029__F1_279-stereo.flac", "rhodes/stereo/As_029__F1_361-stereo.flac", "rhodes/stereo/As_029__F1_431-stereo.flac", "rhodes/stereo/As_029__F1_1109-stereo.flac"],
