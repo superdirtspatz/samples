@@ -20,6 +20,14 @@
     "sp1200_sd": ["beats/sp1200/sp1200_sd_1.mp3", "beats/sp1200/sp1200_sd_0.mp3"],
     "sp1200_hh": ["beats/sp1200/sp1200_hh_0.mp3", "beats/sp1200/sp1200_hh_1.mp3"],
 
+    "uk_bd": ["beats/uk/uk_bd1.wav", "beats/uk/uk_bd2.wav"],
+	"uk_sd": ["beats/uk/uk_sd1.wav", "beats/uk/uk_sd2.wav"],
+	"uk_cp": ["beats/uk/uk_cp1.wav", "beats/uk/uk_cp2.wav"],
+	"uk_hh": ["beats/uk/uk_hh1.wav", "beats/uk/uk_hh2.wav"],
+	"uk_oh": ["beats/uk/uk_oh.wav"],
+	"uk_perc": ["beats/uk/uk_perc1.wav", "beats/uk/uk_perc2.wav"],
+	"uk_rim": ["beats/uk/uk_rim1.wav", "beats/uk/uk_rim2.wav"],
+
     "castanet": ["beats/castanets/castanets1.wav", "beats/castanets/castanets2.wav", 
         "beats/castanets/castanets3.wav", "beats/castanets/castanets4.wav", 
         "beats/castanets/castanets5.wav", "beats/castanets/castanets6.wav", 
