@@ -51,6 +51,32 @@
 "saron/885.8Hz_saron_iron_gamelan.wav",
 "saron/953.1Hz_saron_iron_gamelan.wav",
 "saron/1050Hz_saron_iron_gamelan.wav"],
+	
+"melodica": {
+
+    "a3": ["melodica/a_3.wav"],
+    "a4": ["melodica/a_4.wav"],
+    "a5": ["melodica/a_5.wav"],
+    "b3": ["melodica/b_3.wav"],
+    "b4": ["melodica/b_4.wav"],
+    "b5": ["melodica/b_5.wav"],
+    "c4": ["melodica/c_4.wav"],
+    "c5": ["melodica/c_5.wav"],
+    "c6": ["melodica/c_6.wav"],
+    "d4": ["melodica/d_4.wav"],
+    "d5": ["melodica/d_5.wav"],
+    "d6": ["melodica/d_6.wav"],
+    "e4": ["melodica/e_4.wav"],
+    "e5": ["melodica/e_5.wav"],
+    "e6": ["melodica/e_6.wav"],
+    "f3": ["melodica/f_3.wav"],
+    "f4": ["melodica/f_4.wav"],
+    "f5": ["melodica/f_5.wav"],
+    "g4": ["melodica/g_4.wav"],
+    "g5": ["melodica/g_5.wav"]    
+},
+
+	
 
 "btz": ["beats/btz_1.wav", "beats/btz_2.wav", "beats/btz_3.wav", "beats/btz_4.wav", "beats/btz_5.wav"],
 
