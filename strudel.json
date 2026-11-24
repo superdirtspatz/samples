@@ -76,7 +76,7 @@
     "g5": ["melodica/g_5.wav"]    
 },
 
-	"blk": ["beats/extra-samples_blk_BL_Kick01_thanks_yaxu.wav", "beats/extra-samples_blk_BL_Kick02_thanks_yaxu.wav", "beats/extra-samples_blk_BL_Kick03_thanks_yaxu.wav"], 
+	"blk": ["beats/blk/extra-samples_blk_BL_Kick01_thanks_yaxu.wav", "beats/blk/extra-samples_blk_BL_Kick02_thanks_yaxu.wav", "beats/blk/extra-samples_blk_BL_Kick03_thanks_yaxu.wav"], 
 
 "btz": ["beats/btz_1.wav", "beats/btz_2.wav", "beats/btz_3.wav", "beats/btz_4.wav", "beats/btz_5.wav"],
 
