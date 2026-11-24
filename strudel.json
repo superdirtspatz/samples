@@ -642,9 +642,109 @@
 
 	}
 ,
+
+		      "dx7bell": {
+
+    "a0": ["dexed/bell/dexed_vibe#2 A-1.wav"],
+    "a#0": ["dexed/bell/dexed_vibe#2 A#1.wav"],
+    "b0": ["dexed/bell/dexed_vibe#2 B-1.wav"],
+
+    "c1": ["dexed/bell/dexed_vibe#2 C-2.wav"],
+    "c#1": ["dexed/bell/dexed_vibe#2 C#2.wav"],
+    "d1": ["dexed/bell/dexed_vibe#2 D-2.wav"],
+    "d#1": ["dexed/bell/dexed_vibe#2 D#2.wav"],
+    "e1": ["dexed/bell/dexed_vibe#2 E-2.wav"],
+    "f1": ["dexed/bell/dexed_vibe#2 F-2.wav"],
+    "f#1": ["dexed/bell/dexed_vibe#2 F#2.wav"],
+    "g1": ["dexed/bell/dexed_vibe#2 G-2.wav"],
+    "g#1": ["dexed/bell/dexed_vibe#2 G#2.wav"],
+    "a1": ["dexed/bell/dexed_vibe#2 A-2.wav"],
+    "a#1": ["dexed/bell/dexed_vibe#2 A#2.wav"],
+    "b1": ["dexed/bell/dexed_vibe#2 B-2.wav"],
+
+    "c2": ["dexed/bell/dexed_vibe#2 C-3.wav"],
+    "c#2": ["dexed/bell/dexed_vibe#2 C#3.wav"],
+    "d2": ["dexed/bell/dexed_vibe#2 D-3.wav"],
+    "d#2": ["dexed/bell/dexed_vibe#2 D#3.wav"],
+    "e2": ["dexed/bell/dexed_vibe#2 E-3.wav"],
+    "f2": ["dexed/bell/dexed_vibe#2 F-3.wav"],
+    "f#2": ["dexed/bell/dexed_vibe#2 F#3.wav"],
+    "g2": ["dexed/bell/dexed_vibe#2 G-3.wav"],
+    "g#2": ["dexed/bell/dexed_vibe#2 G#3.wav"],
+    "a2": ["dexed/bell/dexed_vibe#2 A-3.wav"],
+    "a#2": ["dexed/bell/dexed_vibe#2 A#3.wav"],
+    "b2": ["dexed/bell/dexed_vibe#2 B-3.wav"],
+
+    "c3": ["dexed/bell/dexed_vibe#2 C-4.wav"],
+    "c#3": ["dexed/bell/dexed_vibe#2 C#4.wav"],
+    "d3": ["dexed/bell/dexed_vibe#2 D-4.wav"],
+    "d#3": ["dexed/bell/dexed_vibe#2 D#4.wav"],
+    "e3": ["dexed/bell/dexed_vibe#2 E-4.wav"],
+    "f3": ["dexed/bell/dexed_vibe#2 F-4.wav"],
+    "f#3": ["dexed/bell/dexed_vibe#2 F#4.wav"],
+    "g3": ["dexed/bell/dexed_vibe#2 G-4.wav"],
+    "g#3": ["dexed/bell/dexed_vibe#2 G#4.wav"],
+    "a3": ["dexed/bell/dexed_vibe#2 A-4.wav"],
+    "a#3": ["dexed/bell/dexed_vibe#2 A#4.wav"],
+    "b3": ["dexed/bell/dexed_vibe#2 B-4.wav"],
+
+    "c4": ["dexed/bell/dexed_vibe#2 C-5.wav"],
+    "c#4": ["dexed/bell/dexed_vibe#2 C#5.wav"],
+    "d4": ["dexed/bell/dexed_vibe#2 D-5.wav"],
+    "d#4": ["dexed/bell/dexed_vibe#2 D#5.wav"],
+    "e4": ["dexed/bell/dexed_vibe#2 E-5.wav"],
+    "f4": ["dexed/bell/dexed_vibe#2 F-5.wav"],
+    "f#4": ["dexed/bell/dexed_vibe#2 F#5.wav"],
+    "g4": ["dexed/bell/dexed_vibe#2 G-5.wav"],
+    "g#4": ["dexed/bell/dexed_vibe#2 G#5.wav"],
+    "a4": ["dexed/bell/dexed_vibe#2 A-5.wav"],
+    "a#4": ["dexed/bell/dexed_vibe#2 A#5.wav"],
+    "b4": ["dexed/bell/dexed_vibe#2 B-5.wav"],
+
+    "c5": ["dexed/bell/dexed_vibe#2 C-6.wav"],
+    "c#5": ["dexed/bell/dexed_vibe#2 C#6.wav"],
+    "d5": ["dexed/bell/dexed_vibe#2 D-6.wav"],
+    "d#5": ["dexed/bell/dexed_vibe#2 D#6.wav"],
+    "e5": ["dexed/bell/dexed_vibe#2 E-6.wav"],
+    "f5": ["dexed/bell/dexed_vibe#2 F-6.wav"],
+    "f#5": ["dexed/bell/dexed_vibe#2 F#6.wav"],
+    "g5": ["dexed/bell/dexed_vibe#2 G-6.wav"],
+    "g#5": ["dexed/bell/dexed_vibe#2 G#6.wav"],
+    "a5": ["dexed/bell/dexed_vibe#2 A-6.wav"],
+    "a#5": ["dexed/bell/dexed_vibe#2 A#6.wav"],
+    "b5": ["dexed/bell/dexed_vibe#2 B-6.wav"],
+
+    "c6": ["dexed/bell/dexed_vibe#2 C-7.wav"],
+    "c#6": ["dexed/bell/dexed_vibe#2 C#7.wav"],
+    "d6": ["dexed/bell/dexed_vibe#2 D-7.wav"],
+    "d#6": ["dexed/bell/dexed_vibe#2 D#7.wav"],
+    "e6": ["dexed/bell/dexed_vibe#2 E-7.wav"],
+    "f6": ["dexed/bell/dexed_vibe#2 F-7.wav"],
+    "f#6": ["dexed/bell/dexed_vibe#2 F#7.wav"],
+    "g6": ["dexed/bell/dexed_vibe#2 G-7.wav"],
+    "g#6": ["dexed/bell/dexed_vibe#2 G#7.wav"],
+    "a6": ["dexed/bell/dexed_vibe#2 A-7.wav"],
+    "a#6": ["dexed/bell/dexed_vibe#2 A#7.wav"],
+    "b6": ["dexed/bell/dexed_vibe#2 B-7.wav"],
+
+    "c7": ["dexed/bell/dexed_vibe#2 C-8.wav"],
+    "c#7": ["dexed/bell/dexed_vibe#2 C#8.wav"],
+    "d7": ["dexed/bell/dexed_vibe#2 D-8.wav"],
+    "d#7": ["dexed/bell/dexed_vibe#2 D#8.wav"],
+    "e7": ["dexed/bell/dexed_vibe#2 E-8.wav"],
+    "f7": ["dexed/bell/dexed_vibe#2 F-8.wav"],
+    "f#7": ["dexed/bell/dexed_vibe#2 F#8.wav"],
+    "g7": ["dexed/bell/dexed_vibe#2 G-8.wav"],
+    "g#7": ["dexed/bell/dexed_vibe#2 G#8.wav"],
+    "a7": ["dexed/bell/dexed_vibe#2 A-8.wav"],
+    "a#7": ["dexed/bell/dexed_vibe#2 A#8.wav"],
+    "b7": ["dexed/bell/dexed_vibe#2 B-8.wav"],
+
+    "c8": ["dexed/bell/dexed_vibe#2 C-9.wav"]
+
+	}
+,
 	
-
-
 
      "dk": {
 
