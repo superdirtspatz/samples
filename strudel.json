@@ -51,6 +51,9 @@
 "saron/885.8Hz_saron_iron_gamelan.wav",
 "saron/953.1Hz_saron_iron_gamelan.wav",
 "saron/1050Hz_saron_iron_gamelan.wav"],
+
+	"da4": ["beats/dave_akuma/Half Baked break e.wav", "beats/dave_akuma/Half Baked break d.wav", "beats/dave_akuma/Half Baked break b.wav"],	
+	"da2": ["beats/dave_akuma/Ion Beat b1.wav", "beats/dave_akuma/Ion Beat d2.wav"],
 	
 "melodica": {
 
